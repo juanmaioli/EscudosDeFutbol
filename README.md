@@ -1,1024 +1,1023 @@
 # EscudosDeFutbol
 Escudos y Logos de Equipos de Futbol del mundo.
 
-** Escudos y Logos de Clubes de Fútbol **
-# Alemania
-# Argentina
-# Australia
-# Austria
-# Belgica
-# Brasil
-# Colombia
-# Dinamarca
-# EEUU
-# Espana
-# Francia
-# Grecia
-# Hungria
-# Italia
-# Japon
-# lista.txt
-# Mexico
-# Noruega
-# Paises Bajos
-# Polonia
-# Portugal
-# Republica Checa
-# Rusia
-# Serbia
-# Suecia
-# Suiza
-# Turquia
-# United Kindom
-# Uruguay
-# Varios
+**Escudos y Logos de Clubes de Fútbol**
+### Alemania
+### Argentina
+### Australia
+### Austria
+### Belgica
+### Brasil
+### Colombia
+### Dinamarca
+### EEUU
+### Espana
+### Francia
+### Grecia
+### Hungria
+### Italia
+### Japon
+### lista.txt
+### Mexico
+### Noruega
+### Paises Bajos
+### Polonia
+### Portugal
+### Republica Checa
+### Rusia
+### Serbia
+### Suecia
+### Suiza
+### Turquia
+### United Kindom
+### Uruguay
+### Varios
 
 
-Alemania Bundesliga
+**Alemania Bundesliga 2020/2021**
 
-1. Fußball- und Sportverein Mainz 05 e.V.
-1. Fußballclub Union Berlin e. V
-Arminia Bielefeld
-Ballspielverein Borussia 09 e.V. Dortmund,
-Bayer 04 Leverkusen Fußball GmbH
-Borussia Verein-für Leibesübungen Mönchengladbach
-Eintracht Frankfurt e.V.
-Fußball-Club Augsburg 1907 e. V.
-Fußball-Club Bayern München e.V.
-Fußball-Club Gelsenkirchen-Schalke 04 e.V.
-Fußball-Club Köln 0107 e. V.(Colonia)
-Hertha Berliner Sport-Club von 1892 e.V.
-RasenBallsport Leipzig e. V.
-Sport-Club Freiburg e.V.
-Sportverein Werder Bremen von 1899 e. V.
-Turn-und Sportgemeinschaft 1899 Hoffenheim e.V.
-Verein für Bewegungsspiele Stuttgart 1893 e. V.
-VfL Wolfsburg-Fußball GmbH
-Alemania Otras categorias
-1860 Munchen 1
-1860 Munchen 2
-1fc Bad Kotzting
-1fc Eintracht Bamberg
-1fc Germania Ober Roden2
-1fc Heidenheim
-1fc Kaiserslautern2
-1fc Magdeburg
-1fc Neubrandenburg 04
-1fc Saarbrucken
-1fc Schweinfurt 05
-1fck
-1fckoln
-1fckolnfan
-Ahrensburger Tsv
-Alemania Aachen  
-Alemannia Aachen
-Alemannia
-Alliansif
-Bahlinger Sc
-Berliner Fc Dynamo
-Bielefeld  
-Bielefeld  Type
-Bielefeld 1
-Bielefeld
-Bochum
-Borussia Neunkirchen 1
-Borussia Neunkirchen
-Borussiad
-Braunschweig 
-Brazil Paulista League
-Bsv Kickers Emden
-Burghausen
-Bv Cloppenburg
-Carl Zeiss Jena
-Carlzeiss
-Chemnitzer Fc
-Cottbus  
-Darmstadt  
-Dinamo Dresden 
-Djk Tus Rotthausen 1910 Ev
-Dsc Arminia2
-Duisburg Msv Type
-Dynamo Dresden 
-Eintrachbraunsch
-Eintracht Braunschweig 
-Eintracht Frankfurt Fc
-Eintrachtf
-Energie
-Erzgebirgeaue
-Etv Hamburg
-Fc 08 Homburg
-Fc 08 Villingen2
-Fc Anker Wismar
-Fc Astoria Walldorf
-Fc Bayern Alzenau
-Fc Borussia Dortmund
-Fc Erzgebirge Aue
-Fc Gutersloh
-Fc Hannover 96
-Fc Hansa Rostock
-Fc Homburg 
-Fc Ingolstadt 04
-Fc Kickers Wurzburg
-Fc Koln  Type
-Fc Memmingen
-Fc Normannia Gmund
-Fc Nottingen
-Fc Oberneuland
-Fc Sachsen Leipzig 1
-Fc Sachsen Leipzig
-Fc Sankt Pauli
-Fc St Pauli 
-Fc Viktoria Koln
-Fcnurnberg
-Football Club Hannover
-Fortuna Dusseldorf
-Fortuna Koln 
-Fsv Fernwald
-Fsv Frankfurt
-Fsv Frankfurt2
-Fsv Ludwigshafen Oggersheim
-Fv Erkner 1920
-Fv Illertissen
-Hallescher Fc
-Hamburg
-Hannover
-Herthaber
-Hsv Hamburger Club
-Hunfelder Sv
-Karlsruher
-Kickersoffen
-Kieler Sv Holstein
-Kopenicker Sc
-Ksc  
-Lahrer Fv
-Leverkusen
-Lokomotive Leipzig 
-Mainz
-Mannheim Waldhof 
-Msvduisburg
-Munster 
-Mvv 
-Mvv 27
-Oberhausen  
-Offenbacher Fc Kickers
-Osnabruck 
-Rotweissessen
-Rsv Wurges
-Rw Ahlen 
-Saarbrucken  
-Sc Borussia Fulda
-Sc Fortuna Koln2
-Sc Pfullendorf
-Sc Preussen Munster
-Sc Verl
-Sc Waldgirmes
-Sc Waldgirmes2
-Sc Wiedenbruck 2000
-Sc Wielsbeke
-Scfreiburg
-Scpaderborn 1
-Scpaderborn
-Sfc Stern 1900
-Sg Rw Frankfurt
-Sg Sonnenhof
-Sgv Freiberg
-Sp Blau Weiss
-Spvgg 07 Elversberg 1
-Spvgg 07 Elversberg
-Spvgg 07 Elversberg4
-Spvgg Ansbach 09
-Spvgg Bayern Hof
-Spvgggreuther
-Ssv Jahn Regensburg
-Ssv Reutlingen
-Ssv Ulm
-Stuttgarter Kickers 
-Sv Babelsberg
-Sv Babelsberg2
-Sv Buchonia Flieden
-Sv Darmstadt 98 2
-Sv Darmstadt 98
-Sv Dfs
-Sv Eintracht Trier 05
-Sv Falkensee Finkenkrug
-Sv Linx
-Sv Linx2
-Sv Linx3
-Sv Lippstadt 08
-Sv Sandhausen
-Sv Seligenporten
-Sv Union Neustadt 73 Ev
-Sv Urk
-Sv Viktoria Aschaffenburg
-Sv Wacker Burghausen
-Sv Waldhof Mannheim
-Sv Wehen Wiesbaden
-Sv Wilhelmshaven
-Sv
-Svn 1929 Zweibrucken
-Torgelower Fc Greif
-Torgelower Sv Greif
-Tsg Thannhausen
-Tsg Worsdorf
-Tsv 1896 Rain Am Lech
-Tsv Aindling
-Tsv Crailsheim
-Tsvmunchen
-Turkiyemspor Berlin Ev
-Tus Koblenz
-Ulm 
-Unterhaching
-Vfb Leipzig 
-Vfb Lubeck
-Vfb Oldenburg
-Vfc Plauen
-Vfl Kirchheim
-Vfl Sportfreunde Lotte
-Vflwolfsburg
-Vfr Aalen
-Vfr Mannheim
-Vfr Wormatia Worms
-Vfr Wormatia Worms2
-Wattenscheid 09  
-Wuppertaler Sv
+- 1 Fußball- und Sportverein Mainz 05 e.V.
+- 1 Fußballclub Union Berlin e. V
+- Arminia Bielefeld
+- Ballspielverein Borussia 09 e.V. Dortmund,
+- Bayer 04 Leverkusen Fußball GmbH
+- Borussia Verein-für Leibesübungen Mönchengladbach
+- Eintracht Frankfurt e.V.
+- Fußball-Club Augsburg 1907 e. V.
+- Fußball-Club Bayern München e.V.
+- Fußball-Club Gelsenkirchen-Schalke 04 e.V.
+- Fußball-Club Köln 0107 e. V.(Colonia)
+- Hertha Berliner Sport-Club von 1892 e.V.
+- RasenBallsport Leipzig e. V.
+- Sport-Club Freiburg e.V.
+- Sportverein Werder Bremen von 1899 e. V.
+- Turn-und Sportgemeinschaft 1899 Hoffenheim e.V.
+- Verein für Bewegungsspiele Stuttgart 1893 e. V.
+- VfL Wolfsburg-Fußball GmbH
 
-Argentina - Otras Categorias
-Centro Juventud Antoniana(Salta)
-Club Atlético Central Córdoba (Rosario) old
-Club Atlético Estudiantes(Buenos Aires)
-Club Atlético Gimnasia y Esgrima (Jujuy)2
-Club Atlético Huracán De Corrientes
-Club Atlético Rosario Central Old 1
-Club Atlético Rosario Central Old 2
-Club Atlético Tiro Federal Argentino(Ludueña)
-Club Atlético Tucumán 1
-Club Atlético Unión(Mar Del Plata)
-Club de Gimnasia y Tiro(Salta)
-Club Deportivo Guaraní Antonio Franco(Posadas)
-Club Estudiantes de La Plata Old 1
-Club Estudiantes de La Plata Old 2
-Club San Luis
-Racing Athletic Club(Olavarria)
-Real Pilar Fútbol Club old
+**Alemania Otras Categorias** 
+- 1860 Munchen 1
+- 1860 Munchen 2
+- 1fc Bad Kotzting
+- 1fc Eintracht Bamberg
+- 1fc Germania Ober Roden2
+- 1fc Heidenheim
+- 1fc Kaiserslautern2
+- 1fc Magdeburg
+- 1fc Neubrandenburg 04
+- 1fc Saarbrucken
+- 1fc Schweinfurt 05
+- 1fck
+- 1fckoln
+- 1fckolnfan
+- Ahrensburger Tsv
+- Alemania Aachen  
+- Alemannia Aachen
+- Alemannia
+- Alliansif
+- Bahlinger Sc
+- Berliner Fc Dynamo
+- Bielefeld  
+- Bielefeld  Type
+- Bielefeld 1
+- Bielefeld
+- Bochum
+- Borussia Neunkirchen 1
+- Borussia Neunkirchen
+- Borussiad
+- Braunschweig 
+- Brazil Paulista League
+- Bsv Kickers Emden
+- Burghausen
+- Bv Cloppenburg
+- Carl Zeiss Jena
+- Carlzeiss
+- Chemnitzer Fc
+- Cottbus  
+- Darmstadt  
+- Dinamo Dresden 
+- Djk Tus Rotthausen 1910 Ev
+- Dsc Arminia2
+- Duisburg Msv Type
+- Dynamo Dresden 
+- Eintrachbraunsch
+- Eintracht Braunschweig 
+- Eintracht Frankfurt Fc
+- Eintrachtf
+- Energie
+- Erzgebirgeaue
+- Etv Hamburg
+- Fc 08 Homburg
+- Fc 08 Villingen2
+- Fc Anker Wismar
+- Fc Astoria Walldorf
+- Fc Bayern Alzenau
+- Fc Borussia Dortmund
+- Fc Erzgebirge Aue
+- Fc Gutersloh
+- Fc Hannover 96
+- Fc Hansa Rostock
+- Fc Homburg 
+- Fc Ingolstadt 04
+- Fc Kickers Wurzburg
+- Fc Koln  Type
+- Fc Memmingen
+- Fc Normannia Gmund
+- Fc Nottingen
+- Fc Oberneuland
+- Fc Sachsen Leipzig 1
+- Fc Sachsen Leipzig
+- Fc Sankt Pauli
+- Fc St Pauli 
+- Fc Viktoria Koln
+- Fcnurnberg
+- Football Club Hannover
+- Fortuna Dusseldorf
+- Fortuna Koln 
+- Fsv Fernwald
+- Fsv Frankfurt
+- Fsv Frankfurt2
+- Fsv Ludwigshafen Oggersheim
+- Fv Erkner 1920
+- Fv Illertissen
+- Hallescher Fc
+- Hamburg
+- Hannover
+- Herthaber
+- Hsv Hamburger Club
+- Hunfelder Sv
+- Karlsruher
+- Kickersoffen
+- Kieler Sv Holstein
+- Kopenicker Sc
+- Ksc  
+- Lahrer Fv
+- Leverkusen
+- Lokomotive Leipzig 
+- Mainz
+- Mannheim Waldhof 
+- Msvduisburg
+- Munster 
+- Mvv 
+- Mvv 27
+- Oberhausen  
+- Offenbacher Fc Kickers
+- Osnabruck 
+- Rotweissessen
+- Rsv Wurges
+- Rw Ahlen 
+- Saarbrucken  
+- Sc Borussia Fulda
+- Sc Fortuna Koln2
+- Sc Pfullendorf
+- Sc Preussen Munster
+- Sc Verl
+- Sc Waldgirmes
+- Sc Waldgirmes2
+- Sc Wiedenbruck 2000
+- Sc Wielsbeke
+- Scfreiburg
+- Scpaderborn 1
+- Scpaderborn
+- Sfc Stern 1900
+- Sg Rw Frankfurt
+- Sg Sonnenhof
+- Sgv Freiberg
+- Sp Blau Weiss
+- Spvgg 07 Elversberg 1
+- Spvgg 07 Elversberg
+- Spvgg 07 Elversberg4
+- Spvgg Ansbach 09
+- Spvgg Bayern Hof
+- Spvgggreuther
+- Ssv Jahn Regensburg
+- Ssv Reutlingen
+- Ssv Ulm
+- Stuttgarter Kickers 
+- Sv Babelsberg
+- Sv Babelsberg2
+- Sv Buchonia Flieden
+- Sv Darmstadt 98 2
+- Sv Darmstadt 98
+- Sv Dfs
+- Sv Eintracht Trier 05
+- Sv Falkensee Finkenkrug
+- Sv Linx
+- Sv Linx2
+- Sv Linx3
+- Sv Lippstadt 08
+- Sv Sandhausen
+- Sv Seligenporten
+- Sv Union Neustadt 73 Ev
+- Sv Urk
+- Sv Viktoria Aschaffenburg
+- Sv Wacker Burghausen
+- Sv Waldhof Mannheim
+- Sv Wehen Wiesbaden
+- Sv Wilhelmshaven
+- Sv
+- Svn 1929 Zweibrucken
+- Torgelower Fc Greif
+- Torgelower Sv Greif
+- Tsg Thannhausen
+- Tsg Worsdorf
+- Tsv 1896 Rain Am Lech
+- Tsv Aindling
+- Tsv Crailsheim
+- Tsvmunchen
+- Turkiyemspor Berlin Ev
+- Tus Koblenz
+- Ulm 
+- Unterhaching
+- Vfb Leipzig 
+- Vfb Lubeck
+- Vfb Oldenburg
+- Vfc Plauen
+- Vfl Kirchheim
+- Vfl Sportfreunde Lotte
+- Vflwolfsburg
+- Vfr Aalen
+- Vfr Mannheim
+- Vfr Wormatia Worms
+- Vfr Wormatia Worms2
+- Wattenscheid 09  
+- Wuppertaler Sv
 
-Argentina\Primera
-Arsenal Fútbol Club(Sarandi)
-Asociación Atlética Argentino Juniors
-Club Atlético Aldosivi
-Club Atlético Banfield
-Club Atlético Boca Juniors
-Club Atlético Colón
-Club Atlético Huracán
-Club Atlético Independiente
-Club Atlético Lanús
-Club Atlético Newells Old Boys
-Club Atlético Patronato de la Juventud Católica(Paraná)
-Club Atlético River Plate
-Club Atlético Rosario Central
-Club Atlético San Lorenzo De Almagro
-Club Atlético Talleres
-Club Atlético Tucumán
-Club Atlético Unión(Santa Fe)
-Club Atlético Vélez Sarsfield
-Club Central Córdoba(Santiago Del Estero)
-Club De Gimnasia Y Esgrima (La Plata)
-Club Deportivo Godoy Cruz Antonio Tomba(Mendoza)
-Club Estudiantes de La Plata
-Club Social y Deportivo Defensa y Justicia
-Racing Club
+**Argentina Superliga**
+- Arsenal Fútbol Club(Sarandi)
+- Asociación Atlética Argentino Juniors
+- Club Atlético Aldosivi
+- Club Atlético Banfield
+- Club Atlético Boca Juniors
+- Club Atlético Colón
+- Club Atlético Huracán
+- Club Atlético Independiente
+- Club Atlético Lanús
+- Club Atlético Newells Old Boys
+- Club Atlético Patronato de la Juventud Católica(Paraná)
+- Club Atlético River Plate
+- Club Atlético Rosario Central
+- Club Atlético San Lorenzo De Almagro
+- Club Atlético Talleres
+- Club Atlético Tucumán
+- Club Atlético Unión(Santa Fe)
+- Club Atlético Vélez Sarsfield
+- Club Central Córdoba(Santiago Del Estero)
+- Club De Gimnasia Y Esgrima (La Plata)
+- Club Deportivo Godoy Cruz Antonio Tomba(Mendoza)
+- Club Estudiantes de La Plata
+- Club Social y Deportivo Defensa y Justicia
+- Racing Club
 
-Argentina\Primera B
-Asociación Social y Deportiva Justo José de Urquiza
-Club Almirante Brown
-Club Atlético Acassuso
-Club Atlético Argentino de Quilmes
-Club Atlético Colegiales
-Club Atlético Defensores Unidos
-Club Atlético Fénix
-Club Atlético Los Andes
-Club Atlético San Miguel(Polvorines)
-Club Atlético San Telmo
-Club Atlético Talleres (Remedios de Escalada)
-Club Atlético Villa San Carlos
-Club Comunicaciones (Buenos Aires)
-Club Deportivo Armenio
-Club Deportivo UAI Urquiza
-Club Social y Deportivo Flandria
-Club Social y Deportivo Tristán Suárez
-Sacachispas Fútbol Club
-Argentina\Primera C
-Asociación Deportiva Berazategui
-Cañuelas Futbol Club
-Club Atlético Argentino (Merlo)
-Club Atlético Central Córdoba (Rosario)
-Club Atlético Excursionistas
-Club Atlético Ferrocarril Midland
-Club Atlético General Lamadrid
-Club Atlético Ituzaingo
-Club Atlético Victoriano Arenas
-Club Deportivo Espanol
-Club Deportivo y Mutual Leandro N. Alem
-Club El Porvenir
-Club Luján
-Club Social y Cultural Deportivo Laferrere
-Club Social y Deportivo Merlo
-Club Social y Deportivo San Martín(Burzaco)
-Club Sportivo Dock Sud
-Club Sportivo Italiano
-Real Pilar Fútbol Club
+**Argentina Primera B**
+- Asociación Social y Deportiva Justo José de Urquiza
+- Club Almirante Brown
+- Club Atlético Acassuso
+- Club Atlético Argentino de Quilmes
+- Club Atlético Colegiales
+- Club Atlético Defensores Unidos
+- Club Atlético Fénix
+- Club Atlético Los Andes
+- Club Atlético San Miguel(Polvorines)
+- Club Atlético San Telmo
+- Club Atlético Talleres (Remedios de Escalada)
+- Club Atlético Villa San Carlos
+- Club Comunicaciones (Buenos Aires)
+- Club Deportivo Armenio
+- Club Deportivo UAI Urquiza
+- Club Social y Deportivo Flandria
+- Club Social y Deportivo Tristán Suárez
+- Sacachispas Fútbol Club
+- Argentina\Primera C
+- Asociación Deportiva Berazategui
+- Cañuelas Futbol Club
+- Club Atlético Argentino (Merlo)
+- Club Atlético Central Córdoba (Rosario)
+- Club Atlético Excursionistas
+- Club Atlético Ferrocarril Midland
+- Club Atlético General Lamadrid
+- Club Atlético Ituzaingo
+- Club Atlético Victoriano Arenas
+- Club Deportivo Espanol
+- Club Deportivo y Mutual Leandro N. Alem
+- Club El Porvenir
+- Club Luján
+- Club Social y Cultural Deportivo Laferrere
+- Club Social y Deportivo Merlo
+- Club Social y Deportivo San Martín(Burzaco)
+- Club Sportivo Dock Sud
+- Club Sportivo Italiano
+- Real Pilar Fútbol Club
 
-Argentina\Primera D
-Centro Social y Recreativo Español
-Club Atlético Argentino(Rosario)
-Club Atlético Atlas
-Club Atlético Claypole
-Club Atlético Deportivo Paraguayo
-Club Atlético Lugano
-Club Atlético Puerto Nuevo
-Club Defensores de Cambaceres
-Club Deportivo y Social Juventud Unida
-Club Social y Deportivo Central Ballester
-Club Social y Deportivo Liniers
-Club Social y Deportivo Muñiz
-Club Social y Deportivo Yupanqui
-Club Sportivo Barracas
+**Argentina Primera D**
+- Centro Social y Recreativo Español
+- Club Atlético Argentino(Rosario)
+- Club Atlético Atlas
+- Club Atlético Claypole
+- Club Atlético Deportivo Paraguayo
+- Club Atlético Lugano
+- Club Atlético Puerto Nuevo
+- Club Defensores de Cambaceres
+- Club Deportivo y Social Juventud Unida
+- Club Social y Deportivo Central Ballester
+- Club Social y Deportivo Liniers
+- Club Social y Deportivo Muñiz
+- Club Social y Deportivo Yupanqui
+- Club Sportivo Barracas
 
-Argentina\Primera Nacional
-Asociación Atlética Estudiantes(Rio Cuarto)
-Asociación Mutual Social y Deportiva Atlético de Rafaela
-Club Agropecuario Argentino
-Club Almagro
-Club Atlético All Boys
-Club Atlético Alvarado(Mar del Plata)
-Club Atlético Atlanta
-Club Atlético Barracas Central
-Club Atlético Belgrano(Córdoba)
-Club Atlético Brown
-Club Atlético Chacarita Juniors
-Club Atlético Defensores de Belgrano
-Club Atlético Estudiantes(Caseros)
-Club Atlético Gimnasia y Esgrima (Mendoza)
-Club Atlético Gimnasia y Esgrima(Jujuy)
-Club Atlético Mitre (Santiago del Estero)
-Club Atlético Nueva Chicago
-Club Atlético Platense
-Club Atlético San Martín (Tucumán)
-Club Atlético San Martín(San Juan)
-Club Atlético Sarmiento (Junín)
-Club Atlético Temperley
-Club Atlético Tigre
-Club Deportivo Morón
-Club Deportivo Riestra
-Club Ferro Carril Oeste
-Club Social y Atlético Guillermo Brown(Madryn)
-Club Sportivo Independiente Rivadavia(Mendoza)
-Club Villa Dálmine
-Club y Biblioteca Ramón Santamarina(Tandil)
-Instituto Atlético Central Córdoba
-Quilmes Atlético Club
+**Argentina Primera Nacional**
+- Asociación Atlética Estudiantes(Rio Cuarto)
+- Asociación Mutual Social y Deportiva Atlético de Rafaela
+- Club Agropecuario Argentino
+- Club Almagro
+- Club Atlético All Boys
+- Club Atlético Alvarado(Mar del Plata)
+- Club Atlético Atlanta
+- Club Atlético Barracas Central
+- Club Atlético Belgrano(Córdoba)
+- Club Atlético Brown
+- Club Atlético Chacarita Juniors
+- Club Atlético Defensores de Belgrano
+- Club Atlético Estudiantes(Caseros)
+- Club Atlético Gimnasia y Esgrima (Mendoza)
+- Club Atlético Gimnasia y Esgrima(Jujuy)
+- Club Atlético Mitre (Santiago del Estero)
+- Club Atlético Nueva Chicago
+- Club Atlético Platense
+- Club Atlético San Martín (Tucumán)
+- Club Atlético San Martín(San Juan)
+- Club Atlético Sarmiento (Junín)
+- Club Atlético Temperley
+- Club Atlético Tigre
+- Club Deportivo Morón
+- Club Deportivo Riestra
+- Club Ferro Carril Oeste
+- Club Social y Atlético Guillermo Brown(Madryn)
+- Club Sportivo Independiente Rivadavia(Mendoza)
+- Club Villa Dálmine
+- Club y Biblioteca Ramón Santamarina(Tandil)
+- Instituto Atlético Central Córdoba
+- Quilmes Atlético Club
 
-Argentina\Torneo Federal A
-Club Atletico Chaco For Ever(Chaco)
-Club Atletico Güemes(Santiago del Estero)
-Club Atlético Boca Unidos
-Club Atlético Central Norte(Salta)
-Club Atlético Douglas Haig
-Club Atlético Huracán Las Heras
-Club Atlético Juventud Unida Universitario(San Luis)
-Club Atlético Sansinena Social y Deportivo
-Club Atlético Sarmiento(Resistencia)
-Club Atlético Social y Deportivo Camioneros
-Club Atlético Unión de Sunchales
-Club Atlético y Social Defensores de Belgrano
-Club Cipolletti
-Club Defensores de Pronunciamiento
-Club Deportivo Juventud Unida(Gualeguachu)
-Club Deportivo Maipu
-Club Ferro Carril Oeste (General Pico)
-Club Gimnasia y Esgrima(Concepción del Uruguay)
-Club Mutual Crucero del Norte(Misiones)
-Club Olimpo(Bahía Blanca)
-Club Social y Deportivo Madryn
-Club Sol de Mayo (Viedma)
-Club Sportivo Belgrano(San Francisco)
-Club Sportivo Desamparados(San Juan)
-Club Sportivo Estudiantes (San Luis) 
-Club Sportivo General San Martín(Formosa)
-Club Villa Mitre(Bahia Blanca)
-Club_Sportivo_Peñarol
-Círculo Deportivo de Comandante Nicanor Otamendi
-Sportivo Atlético Club(Las Parejas)
+**Argentina Torneo Federal A**
+- Club Atletico Chaco For Ever(Chaco)
+- Club Atletico Güemes(Santiago del Estero)
+- Club Atlético Boca Unidos
+- Club Atlético Central Norte(Salta)
+- Club Atlético Douglas Haig
+- Club Atlético Huracán Las Heras
+- Club Atlético Juventud Unida Universitario(San Luis)
+- Club Atlético Sansinena Social y Deportivo
+- Club Atlético Sarmiento(Resistencia)
+- Club Atlético Social y Deportivo Camioneros
+- Club Atlético Unión de Sunchales
+- Club Atlético y Social Defensores de Belgrano
+- Club Cipolletti
+- Club Defensores de Pronunciamiento
+- Club Deportivo Juventud Unida(Gualeguachu)
+- Club Deportivo Maipu
+- Club Ferro Carril Oeste (General Pico)
+- Club Gimnasia y Esgrima(Concepción del Uruguay)
+- Club Mutual Crucero del Norte(Misiones)
+- Club Olimpo(Bahía Blanca)
+- Club Social y Deportivo Madryn
+- Club Sol de Mayo (Viedma)
+- Club Sportivo Belgrano(San Francisco)
+- Club Sportivo Desamparados(San Juan)
+- Club Sportivo Estudiantes (San Luis) 
+- Club Sportivo General San Martín(Formosa)
+- Club Villa Mitre(Bahia Blanca)
+- Club_Sportivo_Peñarol
+- Círculo Deportivo de Comandante Nicanor Otamendi
+- Sportivo Atlético Club(Las Parejas)
 
-
-Australia\Hyundai A-League
-Adelaide United Football Club
-Brisbane Roar FC
-Central Coast Mariners FC
-Macarthur FC
-Melbourne City FC
-Melbourne Victory FC
-Newcastle Jets FC
-Perth Glory FC
-Sydney FC
-Wellington Phoenix FC
-Western Sydney Wanderers FC
-Western United FC
+**Argentina - Otras Categorias**
+- Centro Juventud Antoniana(Salta)
+- Club Atlético Central Córdoba (Rosario) old
+- Club Atlético Estudiantes(Buenos Aires)
+- Club Atlético Gimnasia y Esgrima (Jujuy)2
+- Club Atlético Huracán De Corrientes
+- Club Atlético Rosario Central Old 1
+- Club Atlético Rosario Central Old 2
+- Club Atlético Tiro Federal Argentino(Ludueña)
+- Club Atlético Tucumán 1
+- Club Atlético Unión(Mar Del Plata)
+- Club de Gimnasia y Tiro(Salta)
+- Club Deportivo Guaraní Antonio Franco(Posadas)
+- Club Estudiantes de La Plata Old 1
+- Club Estudiantes de La Plata Old 2
+- Club San Luis
+- Racing Athletic Club(Olavarria)
+- Real Pilar Fútbol Club old
 
 
-Austria\Otras Categorias
-Austrialustenau
-Austrialustenaubw
-Dsv Leoben
-Fc Admira Wacker Modling
-Fc Blau Weiss Linz
-Fc Tirol Innsbruck
-Fc Wacker Innsbruck
-Fc Wacker Innsbruck2
-Fc Wacker Innsbruck3
-First Vienna Fc
-Grazer Ak Football
-Grazerak
-Kelag
-Kelagc
-Sc Austria Lustenau
-Sc Magna 1
-Sc Magna
-Sk Austria Wien
-Sk Sturm Graz
-Sv Ried Club
-Sv Ried
-Sw Bregenz
-Wackertirol
-Wackertirolc
-Wkp Lech2
+**Australia Hyundai A-League**
+- Adelaide United Football Club
+- Brisbane Roar FC
+- Central Coast Mariners FC
+- Macarthur FC
+- Melbourne City FC
+- Melbourne Victory FC
+- Newcastle Jets FC
+- Perth Glory FC
+- Sydney FC
+- Wellington Phoenix FC
+- Western Sydney Wanderers FC
+- Western United FC
 
-Austria\Tipico-Bundesliga
-Fussball Klub Austria Wien
-Fußball Club Red Bull Salzburg
-Fußballklub Flyeralarm Admira Wacker Mödling
-Linzer Athletik-Sport-Klub
-Riegler & Zechmeister Pellets Wolfsberger Athletik Club
-Sportclub Rheindorf Altach
-Sportklub Niederösterreich St. Pölten
-Sportklub Puntigamer Sturm Graz
-Sportklub Rapid Wien
-Sportverein Bauwelt Koch Mattersburg
-Turn- und Sportverein Hartberg
-WSG Swarovski Tirol Fußball
+**Austria Tipico-Bundesliga**
+- Fussball Klub Austria Wien
+- Fußball Club Red Bull Salzburg
+- Fußballklub Flyeralarm Admira Wacker Mödling
+- Linzer Athletik-Sport-Klub
+- Riegler & Zechmeister Pellets Wolfsberger Athletik Club
+- Sportclub Rheindorf Altach
+- Sportklub Niederösterreich St. Pölten
+- Sportklub Puntigamer Sturm Graz
+- Sportklub Rapid Wien
+- Sportverein Bauwelt Koch Mattersburg
+- Turn- und Sportverein Hartberg
+- WSG Swarovski Tirol Fußball
 
+**Austria Otras Categorias**
+- Austrialustenau
+- Austrialustenaubw
+- Dsv Leoben
+- Fc Admira Wacker Modling
+- Fc Blau Weiss Linz
+- Fc Tirol Innsbruck
+- Fc Wacker Innsbruck
+- Fc Wacker Innsbruck2
+- Fc Wacker Innsbruck3
+- First Vienna Fc
+- Grazer Ak Football
+- Grazerak
+- Kelag
+- Kelagc
+- Sc Austria Lustenau
+- Sc Magna 1
+- Sc Magna
+- Sk Austria Wien
+- Sk Sturm Graz
+- Sv Ried Club
+- Sv Ried
+- Sw Bregenz
+- Wackertirol
+- Wackertirolc
+- Wkp Lech2
 
-Belgica\Jupiler Pro League
-Cercle Brugge KSV
-Club Brugge Koninklijke Voetbalvereniging
-K Beerschot VAC
-K.A.S. Eupen
-Koninklijke Atletiek Associatie Gent
-Koninklijke Racing Club Genk
-Koninklijke Voetbalclub Kortrijk
-Koninklijke Voetbalclub Oostende
-Koninklijke Voetbalclub Red Star Waasland-Sportkring-Beveren
-Oud-Heverlee Leuven
-Red Koninklijke Voetbalklub Mechelen)
-Royal Antwerp Football Club
-Royal Charleroi Sporting Club
-Royal Excel Mouscron
-Royal Sporting Club Anderlecht
-Royal Standard de Liège
-Sint-Truidense V.V.
-Sportvereniging Zulte Waregem
+**Belgica Jupiler Pro League**
+- Cercle Brugge KSV
+- Club Brugge Koninklijke Voetbalvereniging
+- K Beerschot VAC
+- K.A.S. Eupen
+- Koninklijke Atletiek Associatie Gent
+- Koninklijke Racing Club Genk
+- Koninklijke Voetbalclub Kortrijk
+- Koninklijke Voetbalclub Oostende
+- Koninklijke Voetbalclub Red Star Waasland-Sportkring-Beveren
+- Oud-Heverlee Leuven
+- Red Koninklijke Voetbalklub Mechelen)
+- Royal Antwerp Football Club
+- Royal Charleroi Sporting Club
+- Royal Excel Mouscron
+- Royal Sporting Club Anderlecht
+- Royal Standard de Liège
+- Sint-Truidense V.V.
+- Sportvereniging Zulte Waregem
 
-Belgica\Otras Categorias
-Aalst
-Achter Olen Vv
-Afc Tubize
-As Gerouville
-As Verbroedering Geel
-Ase Chastre
-Atletico Progresso Clube 
-Beerschot
-Beveren
-Cs Sart Tilman
-Cs Vise
-Daring Maria Aalter
-De Zwarte Duivels
-Dilbeek Sport
-Dilsen Vv
-Ec Erpion
-Ec Velainois
-Eendracht Termien
-Es Boninne
-Es Wellinoise
-Es Wellinoise2
-Fc Anderlecht Milan
-Fc Averbode Okselaar
-Fc Beringen
-Fc Berlaar Heikant
-Fc Blaasveld
-Fc Black Star
-Fc Bleid2
-Fc Brussels3
-Fc Casteau
-Fc Destelbergen
-Fc Dworp
-Fc Eendracht Affligem
-Fc Hoogeinde
-Fc Huldenberg
-Fc Larum Geel
-Fc Ligny
-Fc Merchtem 2000
-Fc Merksem
-Fc Nieuwkerken
-Fc Ramsdonk
-Fc St Martens Latem
-Fc Torpedo Hasselt
-Fc Verbroedering Meerhout
-Fc Verbroedering Meerhout2
-Fcv Dender Eh
-Geel
-Genk
-Gremio Esportivo Osasco Sp
-Groen Star Beek
-Harelbeke 
-Helchteren Vv
-Hoogstraten Vv
-Js Chaumont Gistoux
-Js Focantaise
-Js Pierreuse
-K Berchem Sport 2004
-K Bocholter Vv
-K Bolderberg Fc
-K Diegem Sport
-K Herk Fc
-K Kampenhout Sk
-K Kontich Fc
-K Londerzeel Sk
-K Lutlommel Vv
-K Maasland Maasmechelen
-K Oelegem Sk
-K Olsa Brakel
-K Olympia Sc Wijgmaal
-K Opitter Fc
-K Racing Emblem
-K Racing Waregem
-K Rupel Boom Fc
-K Sassport Boezinge
-K Schelle Sport
-K Stormvogels Haasrode
-K Ternesse Vv Wommelgem
-K Vrijheid Zolder
-K Wijnegem Vc
-K Wuustwezel Fc
-Ke Appelterre Eichem
-Kews Schoonbeek Beverst
-Kfac Waarschoot
-Kfc De Kempen
-Kfc Dessel Sport
-Kfc Duffel
-Kfc Eppegem
-Kfc Excelsior Balgerhoeke
-Kfc Herent
-Kfc Ho Kalken
-Kfc Izegem
-Kfc Katelijne Waver
-Kfc Kattenbos Sport
-Kfc Oosterzonen Oosterwijk
-Kfc Pulle
-Kfc Racing Mol Wezel
-Kfc Schoten Sk
-Kfc Schoten Sk2
-Kfc Sparta Petegem
-Kfc Sparta Petegem2
-Kfc Sporting Sint Gillis Waas
-Kfc Uerdingen 
-Kfc Vw Hamme
-Kfc Weywertz
-Kfcm Hallaar
-Kfco Wilrijk
-Kmsk Deinze
-Kortrijk
-Krc Bambrugge
-Ksc Blankenberge
-Ksc Eendracht Aalst
-Ksc Eendracht Aalst2
-Ksc Grimbergen
-Ksc Wolvertem
-Ksk Beveren
-Ksk Branddonk
-Ksk Erembodegem2
-Ksk Heist
-Ksk Kieldrecht
-Ksk Meeuwen
-Ksk Munsterbilzen 1
-Ksk Munsterbilzen
-Ksk Wavria
-Ksv Bornem
-Ksv Hessen Kassel
-Ksv Klein Karben
-Ksv Oudenaarde
-Ksv Roeselare
-Ksv Roeselare2
-Ksv Sottegem
-Ksv Sottegem2
-Ksv Temse
-Kv Hooikt
-Kv Red Star Waasland
-Kv Tervuren
-Kv Turnhout
-Kv Woluwe Zaventem
-Kv Woluwe Zaventem2
-Kvk Beringen
-Kvk Tienen
-Kvk Westhoek
-Kvsk United Overpelt Lommel
-Kvv Belgica Edegem
-Kvv Coxyde
-Kvv Quick 20
-Kvv Sparta Schaffen
-Kvv Thes Sport
-Kvv Vosselaar
-Kvv Zomergem
-Kws Club Lauwe
-Lalouviere
-Langvad Fc
-Liege 
-Liege
-Lierse
-Lindelhoeven Vv
-Lokeren
-Lokerenstniklaas
-Minderhout Vv
-Oc Warcoing
-Oranje Zonen Bavegem
-Patro Maasmechelen
-R Arquet Fc
-R Excelsior Virton
-R Excelsior Virton2
-R La Hulpe Sc
-R Soignies Sports2
-Raa Louvieroise2
-Racing Club Hades
-Racing de Malinas
-Raec Mons
-Ras Honnelles
-Rcs Florennois
-Rcs Libramont
-Rcs Profondeville
-Rcs Vervietois
-Rcs Vise
-Rerc Amay
-Res Champlonaise
-Res Templiers Nandrin
-Rfc Bioul 81
-Rfc Grand Leez
-Rfc Huy
-Rfc Liegeois
-Rfc Rapid Symphorinois
-Rfc Ronquieres Hy 86
-Rfc Tournai
-Rfc Tournai2
-Rfc Turkania Faymonville
-Rfc Turkania Faymonville2
-Rfc Yvoir
-Rfceb Maurage
-Rj Aische
-Rjs Heppignies Lambusart Fleurus
-Rjs Leignon2
-Roc Charleroi Marchienne
-Rode Duivels Zoutleeuw
-Royal Aywaille Fc
-Royal Boussu Dour Borinage
-Royal Boussu Dour Borinage2
-Royal Geants Athois
-Royal Harze Fc
-Royal Harze Fc2
-Royal Stade Gedinnois
-Royale Entente Bertrigeoise
-Royale Jeunesse Entente Binchoise
-Rrc Hamoir
-Rrc Peruwelz
-Ru Wallonne Ciney
-Rwdmolenbeek
-Rws Bruxelles2
-Sc Eendracht Aalst
-Sc Wiekevorst
-Seraing United
-Sk Bellem
-Sk Berlare
-Sk Eernegem
-Sk Heffen
-Sk Landskouter
-Sk Moelingen
-Sk Sint Niklaas
-Sk Terjoden Welle
-Sk Verbrande Brug
-Sk Verbroedering Oostakker
-Sk Westrozebeke
-Skd Hertsberge
-Sparta Bevere
-Sporting Eizeringen
-Sporting Grote Brogel
-Sporting Heide Linter
-Sporting Lokeren Ov2
-Sporting Wijchmaal
-Spouwen Mopertingen
-Stade Everois Rc
-Stadelavallois
-Sw Harelbeke
-Tempo Overijse
-Torhout 1992 Km
-Union Saint Gilloise
-Ur La Louviere Centre
-Ur Namur
-Urs Du Centre 1
-Vc Eendracht Houtem
-Verbroedering Geel Meerhout
-Vk Dudzele
-Vk Holsbeek
-Vk Penarol Engsbergen
-Vsv Gent
-Vv Brustem Centrum2
-Vv Duffel
-Vv Leke
-Vv Schoor
-Vv Sparta Ursel
-Vv Zomergem
-Waregem
-Westerlokvc
-White Star Bellegem
-White Star Meerdonk
-White Star Woluwe Fc
-Wik Boekel
+**Belgica Otras Categorias**
+- Aalst
+- Achter Olen Vv
+- Afc Tubize
+- As Gerouville
+- As Verbroedering Geel
+- Ase Chastre
+- Atletico Progresso Clube 
+- Beerschot
+- Beveren
+- Cs Sart Tilman
+- Cs Vise
+- Daring Maria Aalter
+- De Zwarte Duivels
+- Dilbeek Sport
+- Dilsen Vv
+- Ec Erpion
+- Ec Velainois
+- Eendracht Termien
+- Es Boninne
+- Es Wellinoise
+- Es Wellinoise2
+- Fc Anderlecht Milan
+- Fc Averbode Okselaar
+- Fc Beringen
+- Fc Berlaar Heikant
+- Fc Blaasveld
+- Fc Black Star
+- Fc Bleid2
+- Fc Brussels3
+- Fc Casteau
+- Fc Destelbergen
+- Fc Dworp
+- Fc Eendracht Affligem
+- Fc Hoogeinde
+- Fc Huldenberg
+- Fc Larum Geel
+- Fc Ligny
+- Fc Merchtem 2000
+- Fc Merksem
+- Fc Nieuwkerken
+- Fc Ramsdonk
+- Fc St Martens Latem
+- Fc Torpedo Hasselt
+- Fc Verbroedering Meerhout
+- Fc Verbroedering Meerhout2
+- Fcv Dender Eh
+- Geel
+- Genk
+- Gremio Esportivo Osasco Sp
+- Groen Star Beek
+- Harelbeke 
+- Helchteren Vv
+- Hoogstraten Vv
+- Js Chaumont Gistoux
+- Js Focantaise
+- Js Pierreuse
+- K Berchem Sport 2004
+- K Bocholter Vv
+- K Bolderberg Fc
+- K Diegem Sport
+- K Herk Fc
+- K Kampenhout Sk
+- K Kontich Fc
+- K Londerzeel Sk
+- K Lutlommel Vv
+- K Maasland Maasmechelen
+- K Oelegem Sk
+- K Olsa Brakel
+- K Olympia Sc Wijgmaal
+- K Opitter Fc
+- K Racing Emblem
+- K Racing Waregem
+- K Rupel Boom Fc
+- K Sassport Boezinge
+- K Schelle Sport
+- K Stormvogels Haasrode
+- K Ternesse Vv Wommelgem
+- K Vrijheid Zolder
+- K Wijnegem Vc
+- K Wuustwezel Fc
+- Ke Appelterre Eichem
+- Kews Schoonbeek Beverst
+- Kfac Waarschoot
+- Kfc De Kempen
+- Kfc Dessel Sport
+- Kfc Duffel
+- Kfc Eppegem
+- Kfc Excelsior Balgerhoeke
+- Kfc Herent
+- Kfc Ho Kalken
+- Kfc Izegem
+- Kfc Katelijne Waver
+- Kfc Kattenbos Sport
+- Kfc Oosterzonen Oosterwijk
+- Kfc Pulle
+- Kfc Racing Mol Wezel
+- Kfc Schoten Sk
+- Kfc Schoten Sk2
+- Kfc Sparta Petegem
+- Kfc Sparta Petegem2
+- Kfc Sporting Sint Gillis Waas
+- Kfc Uerdingen 
+- Kfc Vw Hamme
+- Kfc Weywertz
+- Kfcm Hallaar
+- Kfco Wilrijk
+- Kmsk Deinze
+- Kortrijk
+- Krc Bambrugge
+- Ksc Blankenberge
+- Ksc Eendracht Aalst
+- Ksc Eendracht Aalst2
+- Ksc Grimbergen
+- Ksc Wolvertem
+- Ksk Beveren
+- Ksk Branddonk
+- Ksk Erembodegem2
+- Ksk Heist
+- Ksk Kieldrecht
+- Ksk Meeuwen
+- Ksk Munsterbilzen 1
+- Ksk Munsterbilzen
+- Ksk Wavria
+- Ksv Bornem
+- Ksv Hessen Kassel
+- Ksv Klein Karben
+- Ksv Oudenaarde
+- Ksv Roeselare
+- Ksv Roeselare2
+- Ksv Sottegem
+- Ksv Sottegem2
+- Ksv Temse
+- Kv Hooikt
+- Kv Red Star Waasland
+- Kv Tervuren
+- Kv Turnhout
+- Kv Woluwe Zaventem
+- Kv Woluwe Zaventem2
+- Kvk Beringen
+- Kvk Tienen
+- Kvk Westhoek
+- Kvsk United Overpelt Lommel
+- Kvv Belgica Edegem
+- Kvv Coxyde
+- Kvv Quick 20
+- Kvv Sparta Schaffen
+- Kvv Thes Sport
+- Kvv Vosselaar
+- Kvv Zomergem
+- Kws Club Lauwe
+- Lalouviere
+- Langvad Fc
+- Liege 
+- Liege
+- Lierse
+- Lindelhoeven Vv
+- Lokeren
+- Lokerenstniklaas
+- Minderhout Vv
+- Oc Warcoing
+- Oranje Zonen Bavegem
+- Patro Maasmechelen
+- R Arquet Fc
+- R Excelsior Virton
+- R Excelsior Virton2
+- R La Hulpe Sc
+- R Soignies Sports2
+- Raa Louvieroise2
+- Racing Club Hades
+- Racing de Malinas
+- Raec Mons
+- Ras Honnelles
+- Rcs Florennois
+- Rcs Libramont
+- Rcs Profondeville
+- Rcs Vervietois
+- Rcs Vise
+- Rerc Amay
+- Res Champlonaise
+- Res Templiers Nandrin
+- Rfc Bioul 81
+- Rfc Grand Leez
+- Rfc Huy
+- Rfc Liegeois
+- Rfc Rapid Symphorinois
+- Rfc Ronquieres Hy 86
+- Rfc Tournai
+- Rfc Tournai2
+- Rfc Turkania Faymonville
+- Rfc Turkania Faymonville2
+- Rfc Yvoir
+- Rfceb Maurage
+- Rj Aische
+- Rjs Heppignies Lambusart Fleurus
+- Rjs Leignon2
+- Roc Charleroi Marchienne
+- Rode Duivels Zoutleeuw
+- Royal Aywaille Fc
+- Royal Boussu Dour Borinage
+- Royal Boussu Dour Borinage2
+- Royal Geants Athois
+- Royal Harze Fc
+- Royal Harze Fc2
+- Royal Stade Gedinnois
+- Royale Entente Bertrigeoise
+- Royale Jeunesse Entente Binchoise
+- Rrc Hamoir
+- Rrc Peruwelz
+- Ru Wallonne Ciney
+- Rwdmolenbeek
+- Rws Bruxelles2
+- Sc Eendracht Aalst
+- Sc Wiekevorst
+- Seraing United
+- Sk Bellem
+- Sk Berlare
+- Sk Eernegem
+- Sk Heffen
+- Sk Landskouter
+- Sk Moelingen
+- Sk Sint Niklaas
+- Sk Terjoden Welle
+- Sk Verbrande Brug
+- Sk Verbroedering Oostakker
+- Sk Westrozebeke
+- Skd Hertsberge
+- Sparta Bevere
+- Sporting Eizeringen
+- Sporting Grote Brogel
+- Sporting Heide Linter
+- Sporting Lokeren Ov2
+- Sporting Wijchmaal
+- Spouwen Mopertingen
+- Stade Everois Rc
+- Stadelavallois
+- Sw Harelbeke
+- Tempo Overijse
+- Torhout 1992 Km
+- Union Saint Gilloise
+- Ur La Louviere Centre
+- Ur Namur
+- Urs Du Centre 1
+- Vc Eendracht Houtem
+- Verbroedering Geel Meerhout
+- Vk Dudzele
+- Vk Holsbeek
+- Vk Penarol Engsbergen
+- Vsv Gent
+- Vv Brustem Centrum2
+- Vv Duffel
+- Vv Leke
+- Vv Schoor
+- Vv Sparta Ursel
+- Vv Zomergem
+- Waregem
+- Westerlokvc
+- White Star Bellegem
+- White Star Meerdonk
+- White Star Woluwe Fc
+- Wik Boekel
 
-Brasil\Campeonato Brasileño de Serie A
-Atlético Clube Goianiense
-Botafogo de Futebol e Regatas
-Ceará Sporting Club
-Club Athletico Paranaense
-Club de Regatas Vasco da Gama
-Clube Atlético Mineiro
-Clube de Regatas do Flamengo
-Coritiba Foot Ball Club
-Esporte Clube Bahia
-Fluminense Football Club
-Fortaleza Esporte Clube
-Goiás Esporte Clube
-Grêmio Foot-Ball Porto Alegrense
-Red Bull Bragantino
-Santos Fútbol Club
-Sociedade Esportiva Palmeiras
-Sport Club Corinthians Paulista
-Sport Club do Recife
-Sport Club Internacional
-São Paulo Futebol Clube
+**Brasil Campeonato Brasileño de Serie A**
+- Atlético Clube Goianiense
+- Botafogo de Futebol e Regatas
+- Ceará Sporting Club
+- Club Athletico Paranaense
+- Club de Regatas Vasco da Gama
+- Clube Atlético Mineiro
+- Clube de Regatas do Flamengo
+- Coritiba Foot Ball Club
+- Esporte Clube Bahia
+- Fluminense Football Club
+- Fortaleza Esporte Clube
+- Goiás Esporte Clube
+- Grêmio Foot-Ball Porto Alegrense
+- Red Bull Bragantino
+- Santos Fútbol Club
+- Sociedade Esportiva Palmeiras
+- Sport Club Corinthians Paulista
+- Sport Club do Recife
+- Sport Club Internacional
+- São Paulo Futebol Clube
 
-Brasil\Otras Categorias 
-15 Novembro Rs
-Aa Flamengo Sp
-Aa Internacional Limeira Sp
-Aa Internacional Limeira Sp2 1
-Aa Internacional Limeira Sp2
-Aa Ponte Preta Sp
-Aa Ponte Preta Sp2
-Abc Fc  Type
-America Fc Amazonas
-America Fc Rio Preto
-America Fc Sp Mascot
-America Fc Sp
-America Fc Sp2 1
-America Fc Sp2
-America Mineiro  
-America Natal  Type
-Americana Futebol Ltda Sp
-Americanatal
-Americano Football Club
-Anapolis Football Club
-Araguaina Fr To
-Associacao Ferroviaria De Esportes Sp
-Atletico Monte Azul Sp
-Atleticomineiro
-Atleticoparanense
-Avai Fc  
-Bandeirante Ec Sp
-Bangu Atletico Club
-Botafogo Fc Brasil 
-Ca Juventus Sp
-Ca Linense Sp
-Ca Penapolense Sp
-Ceub  Df 2
-Chapocoense Fc 
-Club Atletico Juventus
-Clube Atletico Colombo  Df
-Clube Atletico Sorocaba Sp
-Coenge  Df
-Coritiba Parana  
-Crb Football
-Cremonese 
-Criciuma  
-Criciuma Fc 
-Cruzeiro Do Sul  Df
-Cruzeiro
-Cs Sergipe Se
-Defele  Df
-Desportive Capixaba  
-Desportivo Brasil Sp
-Ec Noroeste Bauru Sp
-Ec Sao Bento Sp
-Ec Taubate Sp
-Ec Xv De Novembro Jau Sp
-Esporte Clube Vitoria
-Esportiva Tiradented  
-Fc Comercial Ribeirao Preto
-Fc Sampaio
-Fc Santa Cruz
-Figueirense
-Flamengo Esportivo Tiradentes De Brasilia Df
-Friburguense Atletico  
-Gama Soccer Club Brazil 
-Goias Esporte Club
-Goias Fc 
-Gremio Brasiliense  Df
-Gremio Osasco Audax Sp
-Gremio Soccer 
-Guarani Futebol Clube 
-Guaratingueta Ec Sp
-Guaratingueta Futebol Ltda Sp
-Ibis Sport Club 
-Joinville Esporte Clube 
-Juventude
-Legiao F
-Londrina Ec Soccer  
-Nautico
-Palmas Futebol E Regatas To
-Pao De Acucar Ec Sp
-Parana
-Piracicaba Xv Soccer 
-Ponte Preta Soccer Club 
-Portuguesa Sao Paolo  
-Radium Mococa  
-Red Bull Brasil Sp
-Remo Belem  
-Rio Branco Ec Sp
-Santos Fc Sp
-Sao Bernardo Fc Sp
-Sao Caetano Soccer 
-Sao Jose Ec Sp
-Sc Corinthians Paulista Sp
-Sc Corinthians Paulista Sp2
-Sc Corinthians Paulista3
-Ser Caxias Do Sul 
-Sertaozinho Fc Sp
-Sport
-São Paulo Futebol Clube2
-Tocantinopolis Ec To
-Uniao Sao Joao  
-Vila Nova Fc  
-Volta Redonda Fc 
+**Brasil Otras Categorias**
+- 15 Novembro Rs
+- Aa Flamengo Sp
+- Aa Internacional Limeira Sp
+- Aa Internacional Limeira Sp2 1
+- Aa Internacional Limeira Sp2
+- Aa Ponte Preta Sp
+- Aa Ponte Preta Sp2
+- Abc Fc  Type
+- America Fc Amazonas
+- America Fc Rio Preto
+- America Fc Sp Mascot
+- America Fc Sp
+- America Fc Sp2 1
+- America Fc Sp2
+- America Mineiro  
+- America Natal  Type
+- Americana Futebol Ltda Sp
+- Americanatal
+- Americano Football Club
+- Anapolis Football Club
+- Araguaina Fr To
+- Associacao Ferroviaria De Esportes Sp
+- Atletico Monte Azul Sp
+- Atleticomineiro
+- Atleticoparanense
+- Avai Fc  
+- Bandeirante Ec Sp
+- Bangu Atletico Club
+- Botafogo Fc Brasil 
+- Ca Juventus Sp
+- Ca Linense Sp
+- Ca Penapolense Sp
+- Ceub  Df 2
+- Chapocoense Fc 
+- Club Atletico Juventus
+- Clube Atletico Colombo  Df
+- Clube Atletico Sorocaba Sp
+- Coenge  Df
+- Coritiba Parana  
+- Crb Football
+- Cremonese 
+- Criciuma  
+- Criciuma Fc 
+- Cruzeiro Do Sul  Df
+- Cruzeiro
+- Cs Sergipe Se
+- Defele  Df
+- Desportive Capixaba  
+- Desportivo Brasil Sp
+- Ec Noroeste Bauru Sp
+- Ec Sao Bento Sp
+- Ec Taubate Sp
+- Ec Xv De Novembro Jau Sp
+- Esporte Clube Vitoria
+- Esportiva Tiradented  
+- Fc Comercial Ribeirao Preto
+- Fc Sampaio
+- Fc Santa Cruz
+- Figueirense
+- Flamengo Esportivo Tiradentes De Brasilia Df
+- Friburguense Atletico  
+- Gama Soccer Club Brazil 
+- Goias Esporte Club
+- Goias Fc 
+- Gremio Brasiliense  Df
+- Gremio Osasco Audax Sp
+- Gremio Soccer 
+- Guarani Futebol Clube 
+- Guaratingueta Ec Sp
+- Guaratingueta Futebol Ltda Sp
+- Ibis Sport Club 
+- Joinville Esporte Clube 
+- Juventude
+- Legiao F
+- Londrina Ec Soccer  
+- Nautico
+- Palmas Futebol E Regatas To
+- Pao De Acucar Ec Sp
+- Parana
+- Piracicaba Xv Soccer 
+- Ponte Preta Soccer Club 
+- Portuguesa Sao Paolo  
+- Radium Mococa  
+- Red Bull Brasil Sp
+- Remo Belem  
+- Rio Branco Ec Sp
+- Santos Fc Sp
+- Sao Bernardo Fc Sp
+- Sao Caetano Soccer 
+- Sao Jose Ec Sp
+- Sc Corinthians Paulista Sp
+- Sc Corinthians Paulista Sp2
+- Sc Corinthians Paulista3
+- Ser Caxias Do Sul 
+- Sertaozinho Fc Sp
+- Sport
+- São Paulo Futebol Clube2
+- Tocantinopolis Ec To
+- Uniao Sao Joao  
+- Vila Nova Fc  
+- Volta Redonda Fc 
 
-Colombia\Categoría Primera A
-Alianza Petrolera
-América de Cali
-Asociación Deportivo Pasto
-Atlético Bucaramanga
-Atlético Nacional
-Boyacá Chicó Fútbol Club
-Club Deportes Tolima
-Club Deportivo La Equidad
-Club Independiente Santa Fe
-Cúcuta Deportivo Fútbol Club
-Deportivo Cali
-Deportivo Independiente Medellín
-Deportivo Pereira
-Envigado Fútbol Club
-Jaguares de Córdoba
-Junior de Barranquilla
-Millonarios Fútbol Club
-Once Caldas S.A
-Patriotas Boyacá
-Águilas Doradas Rionegro
+**Colombia Categoría Primera A**
+- Alianza Petrolera
+- América de Cali
+- Asociación Deportivo Pasto
+- Atlético Bucaramanga
+- Atlético Nacional
+- Boyacá Chicó Fútbol Club
+- Club Deportes Tolima
+- Club Deportivo La Equidad
+- Club Independiente Santa Fe
+- Cúcuta Deportivo Fútbol Club
+- Deportivo Cali
+- Deportivo Independiente Medellín
+- Deportivo Pereira
+- Envigado Fútbol Club
+- Jaguares de Córdoba
+- Junior de Barranquilla
+- Millonarios Fútbol Club
+- Once Caldas S.A
+- Patriotas Boyacá
+- Águilas Doradas Rionegro
 
-Colombia\Otras Categorias
-Palmira 
-Santa Marta 
+**Colombia Otras Categorias**
+- Palmira 
+- Santa Marta 
 
-Dinamarca\3F Superliga
-Aalborg Boldspilklub
-Aarhus Gymnastikforening
-AC Horsens
-Brøndbyernes Idrætsforening
-Esbjerg forenede Boldklubber
-Football Club København
-Football Club Midtjylland
-Football Club Nordsjælland
-Hobro Idræts Klub
-Lyngby Boldklub af 1921
-Odense Boldklub
-Randers FC
-Silkeborg Idrætsforening
-SønderjyskE Fodbold
+**Dinamarca 3F Superliga**
+- Aalborg Boldspilklub
+- Aarhus Gymnastikforening
+- AC Horsens
+- Brøndbyernes Idrætsforening
+- Esbjerg forenede Boldklubber
+- Football Club København
+- Football Club Midtjylland
+- Football Club Nordsjælland
+- Hobro Idræts Klub
+- Lyngby Boldklub af 1921
+- Odense Boldklub
+- Randers FC
+- Silkeborg Idrætsforening
+- SønderjyskE Fodbold
 
-Dinamarca\Otras Categorias
-Aabenraa Boldklub
-Aarhus Fremad
-Agf Aarhus
-Akademisk Boldklub
-B 1909
-B 1913 Football
-B 93 
-B 93 Old
-B1903 
-Bg Bukkerup Gymnastikforening
-Bk Frem
-Boldklubben Kr70
-Borgunda
-Borup Idraetsforening
-Brondby If 
-Bronshoj 
-Dalum If 
-Dbu V
-Dbu
-Dbu2
-Esbjergfb
-Farum Bk
-Fc Aarhus
-Fc Fredericia
-Fc Fremad Herning
-Fc Mitjylland
-Fc Varta
-Fcnordsjaeland
-Fremad Amager
-Gevninge If
-Glostrup 
-Hbk
-Hellerup Ik
-Helsingor Itraetsforening
-Herfolge Boldklub
-Herfolge Type
-Hidovre If
-Himmelev Veddelev Bk
-Hjerting Itraets Forening
-Holbaek Bold Itraetsforening
-Holstebro Bk
-Hvalso If
-Ikast Fs
-Jungshoved Itraetsforening
-Kirke Type
-Kjobenhavns Boldklub
-Koge Fc Type
-Kolding 
-Lejre If
-Lundtofte Boldklub
-Lyngby Fc 2
-Naestved Boldklub
-Norresundby Fc
-Nyborg If
-Olstykke 
-Randers Freja Sportsklub
-Ringkobing Idraetsforening
-Rode Stjerne Roskilde
-Roskilde Bk 
-Roskilde Boldklub 1906
-Skive Idraets Klub
-Skjold Birkerod Danmark
-Spiller Foreningen
-Svogerslev Boldklub
-Taarnby Boldklub
-Ugerlose If
-Vanlose If 
-Vejen Sf 
-Vejle Boldklub
-Viborg Fodsports Forening
-Voersaa Idraetsforening
-Vor Frue If
+**Dinamarca Otras Categorias**
+- Aabenraa Boldklub
+- Aarhus Fremad
+- Agf Aarhus
+- Akademisk Boldklub
+- B 1909
+- B 1913 Football
+- B 93 
+- B 93 Old
+- B1903 
+- Bg Bukkerup Gymnastikforening
+- Bk Frem
+- Boldklubben Kr70
+- Borgunda
+- Borup Idraetsforening
+- Brondby If 
+- Bronshoj 
+- Dalum If 
+- Dbu V
+- Dbu
+- Dbu2
+- Esbjergfb
+- Farum Bk
+- Fc Aarhus
+- Fc Fredericia
+- Fc Fremad Herning
+- Fc Mitjylland
+- Fc Varta
+- Fcnordsjaeland
+- Fremad Amager
+- Gevninge If
+- Glostrup 
+- Hbk
+- Hellerup Ik
+- Helsingor Itraetsforening
+- Herfolge Boldklub
+- Herfolge Type
+- Hidovre If
+- Himmelev Veddelev Bk
+- Hjerting Itraets Forening
+- Holbaek Bold Itraetsforening
+- Holstebro Bk
+- Hvalso If
+- Ikast Fs
+- Jungshoved Itraetsforening
+- Kirke Type
+- Kjobenhavns Boldklub
+- Koge Fc Type
+- Kolding 
+- Lejre If
+- Lundtofte Boldklub
+- Lyngby Fc 2
+- Naestved Boldklub
+- Norresundby Fc
+- Nyborg If
+- Olstykke 
+- Randers Freja Sportsklub
+- Ringkobing Idraetsforening
+- Rode Stjerne Roskilde
+- Roskilde Bk 
+- Roskilde Boldklub 1906
+- Skive Idraets Klub
+- Skjold Birkerod Danmark
+- Spiller Foreningen
+- Svogerslev Boldklub
+- Taarnby Boldklub
+- Ugerlose If
+- Vanlose If 
+- Vejen Sf 
+- Vejle Boldklub
+- Viborg Fodsports Forening
+- Voersaa Idraetsforening
+- Vor Frue If
 
-EEUU\Major League Soccer Este
-Atlanta United Football Club
-Chicago Fire FC
-Columbus Crew SC
-D.C. United
-FC Cincinnati
-Inter Miami CF
-Montreal Impact
-New England Revolution
-New York City FC
-New York Red Bulls
-Orlando City SC
-Philadelphia Union
-Toronto FC
+**EEUU Major League Soccer Este**
+- Atlanta United Football Club
+- Chicago Fire FC
+- Columbus Crew SC
+- D.C. United
+- FC Cincinnati
+- Inter Miami CF
+- Montreal Impact
+- New England Revolution
+- New York City FC
+- New York Red Bulls
+- Orlando City SC
+- Philadelphia Union
+- Toronto FC
 
-EEUU\Major League Soccer Oeste
-Colorado Rapids
-FC Dallas
-Houston Dynamo FC
-LA Galaxy
-Los Angeles FC
-Minnesota United FC
-Nashville SC
-Portland Timbers
-Real Salt Lake
-San Jose Earthquakes
-Seattle Sounders FC
-Sporting Kansas City
-Vancouver Whitecaps FC
+**EEUU Major League Soccer Oeste**
+- Colorado Rapids
+- FC Dallas
+- Houston Dynamo FC
+- LA Galaxy
+- Los Angeles FC
+- Minnesota United FC
+- Nashville SC
+- Portland Timbers
+- Real Salt Lake
+- San Jose Earthquakes
+- Seattle Sounders FC
+- Sporting Kansas City
+- Vancouver Whitecaps FC
 
 Espana\Otras Categorias
 Albacete Balompie
