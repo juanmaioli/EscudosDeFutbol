@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="Layer_1"
+   x="0px"
+   y="0px"
+   viewBox="0 0 1000 1000"
+   xml:space="preserve"
+   sodipodi:docname="Club Atlético Excursionistas.svg"
+   width="1000"
+   height="1000"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"><metadata
+   id="metadata21"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+   id="defs19" /><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1920"
+   inkscape:window-height="1017"
+   id="namedview17"
+   showgrid="false"
+   inkscape:zoom="0.827"
+   inkscape:cx="500"
+   inkscape:cy="500"
+   inkscape:window-x="-8"
+   inkscape:window-y="-8"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="Layer_1" />
+
+
+
+
+
+
+<g
+   id="g853"
+   transform="matrix(1.5407996,0,0,1.5407996,-4.777505,-3.5048045)"><path
+     style="fill:#678c5d"
+     d="M 564.738,18.5 H 90.477 v 531.836 c 0,7.367 2.737,13.997 8,19.156 5.473,5.471 11.997,8.21 19.366,8.21 h 106.409 c 33.68,0.84 62.835,13.157 86.622,37.048 6.315,6.314 12.104,13.155 16.734,20.313 4.634,-7.158 10.421,-13.999 16.737,-20.313 6.841,-6.842 13.996,-12.632 21.681,-17.577 19.05,-12.316 40.835,-18.842 64.938,-19.472 h 106.41 c 7.367,0 13.895,-2.738 19.366,-8.21 5.262,-5.159 7.998,-11.789 7.998,-19.156 z"
+     id="path2" /><path
+     style="fill:#ffffff"
+     d="m 289.823,163.747 h 76.203 v 401.955 c -13.788,6.842 -26.629,15.894 -38.418,27.154 -11.787,-11.261 -24.628,-20.312 -38.101,-27.154 z"
+     id="path4" /><path
+     style="fill:#ffffff"
+     d="m 427.385,163.747 h 76.203 v 386.589 c 0,0 -75.359,0 -76.203,0.21 z"
+     id="path6" /><path
+     style="fill:#ffffff"
+     d="m 152.154,163.747 h 76.201 v 386.799 c -1.367,-0.21 -76.201,-0.21 -76.201,-0.21 z"
+     id="path8" /><path
+     style="fill:#ffffff"
+     d="M 449.596,78.493 V 64.812 h 44.205 V 46.181 h -71.045 v 86.94 h 71.781 v -19.79 H 449.596 V 96.07 h 40.626 V 78.493 Z"
+     id="path10" /><path
+     style="fill:#ffffff"
+     d="m 181.52,72.493 c 3.052,-5.263 7.366,-7.682 13.156,-7.682 2.736,-0.316 5.157,0.314 7.683,1.366 1.896,1.474 3.58,3.053 5.473,5.264 0.842,0.737 1.686,2.735 2.422,5.473 l 23.365,-4.946 c -3.052,-9.053 -7.684,-16.21 -13.999,-20.84 -6,-4.421 -14.524,-6.632 -25.259,-6.632 -13.684,0 -24.419,3.895 -31.787,11.788 -7.683,7.683 -11.474,18.735 -11.474,33.153 0,10.736 2.212,19.474 6.526,26.313 4.105,6.948 9.368,11.789 15.368,14.526 5.789,2.843 13.473,4.209 22.734,4.209 7.473,0 13.789,-1.157 18.946,-3.578 4.946,-1.999 9.051,-5.473 12.314,-10.209 3.263,-4.315 5.473,-9.788 6.841,-16.104 l -22.735,-6.841 c -1.367,5.157 -2.947,9.577 -5.473,12.525 -2.421,2.525 -6.314,3.894 -11.261,3.894 -5.475,0 -9.579,-1.684 -12.526,-4.947 -2.525,-3.58 -3.895,-10.42 -3.895,-20.313 0.001,-7.578 1.159,-13.155 3.581,-16.419 z"
+     id="path12" /><path
+     style="fill:#ffffff"
+     d="m 341.08,46.181 h -28.838 l -32.313,86.94 h 27.366 l 3.895,-14.316 h 29.89 l 4.423,14.316 h 27.364 z m -14.839,22.734 9.366,30.733 h -18.945 z"
+     id="path14" /></g>
+</svg>

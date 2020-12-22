@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="Layer_1"
+   x="0px"
+   y="0px"
+   viewBox="0 0 1000 1000"
+   xml:space="preserve"
+   sodipodi:docname="Hamburg.svg"
+   width="1000"
+   height="1000"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"><metadata
+   id="metadata15"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+   id="defs13" /><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1920"
+   inkscape:window-height="1017"
+   id="namedview11"
+   showgrid="false"
+   inkscape:zoom="1.9812734"
+   inkscape:cx="267"
+   inkscape:cy="31"
+   inkscape:window-x="-8"
+   inkscape:window-y="-8"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="Layer_1" />
+
+
+
+<g
+   id="g844"
+   transform="matrix(6.1967568,0,0,6.1967568,-982.18595,279.80835)"><rect
+     x="158.5"
+     y="-45.153999"
+     style="fill:#0064a2"
+     width="216"
+     height="153.306"
+     id="rect2" /><rect
+     x="220.951"
+     y="-14.049"
+     transform="matrix(0.7071,-0.7071,0.7071,0.7071,55.7759,197.6621)"
+     style="fill:#ffffff"
+     width="91.097"
+     height="91.097"
+     id="rect4" /><rect
+     x="238.396"
+     y="3.3929999"
+     transform="matrix(0.7071,-0.7071,0.7071,0.7071,55.7832,197.6729)"
+     width="56.215"
+     height="56.215"
+     id="rect6" /><polygon
+     style="fill:#ffffff"
+     points="253.552,31.5 266.5,44.448 279.459,31.5 266.5,18.542 "
+     id="polygon8" /></g>
+</svg>
