@@ -1906,118 +1906,123 @@ Viktoria Zizkov
 Vitkovice Fc
 
 
-Rusia
-Alania Vladikavkaz 
-Alternate Khimk
-Amkar Alternate  
-Amkarperm
-Anzi Mackachkala  Alter 
-Arsenal Tula  
-Arzamas Soccer 
-Asmaral Moscow  
-Cka Rostov
-Csk Kristall 
-Cska Soccer 
-Cskamoscow
-Dardanelspor  
-Dynamo Saint Etersburg
-Dynamo Stavropol
-Dynamomoscow
-Energiavladivostok
-Energiya Khabarovsk
-Energiya Velikiye Luki
-Fc Anzhi
-Fc Asmarl Moscow
-Fc Avtomobilist Noginsk
-Fc Chernomorets Novorossiysk
-Fc Chita
-Fc Chkalovets Novosibirsk
-Fc Chukotka
-Fc Cska Moscow
-Fc Don Novomoskovsk
-Fc Druzhba Maykop
-Fc Dynamo Izhevsk
-Fc Energetik Uren
-Fc Fabus Bronnitsy
-Fc Fakel Voronezh
-Fc Gazovik Orenburg
-Fc Gazovnik 2
-Fc Kamaz
-Fc Khimki
-Fc Mozdok
-Fc Nalchik
-Fc Neftekhimik Nizhnekamsk
-Fc Neftyanik Yaroslavl
-Fc Spartak Shchyolkovo
-Fk Arsenal Tula
-Fk Avangard Kursk
-Fk Avtodor Vladikavkaz
-Fk Baltika Kaliningrad
-Fk Beshtau
-Fk Haderslev
-Fk Kavkaz
-Fk Lokomotiv Shakt
-Fk Metalurg
-Fk Partizan
-Fk Pirmasens
-Fk Sevojno 
-Fk Smederevo 
-Fk Ural
-Fk Uralmash
-Fk Zemun
-Fks Stal Krasnik
-Fks Stal Krasnik2
-Fkzemun
-Football Club Energy
-Khimki
-Krylyasamara
-Kuban Krasnodar 
-Kuban Krasnodar Vector
-Kubankrasnodar
-Lada Dimitrovgrad 
-Lada Simbirsk
-Lada Togliatti
-Ladagrad  
-Lokomotiv 2
-Lokomotiv Fk
-Lokomotiv Kaluga
-Lokomotivmoscow
-Luch Vladivostok
-Moscow
-Nizhniy Lokomotiv
-Nostan Fc
-Novosibirsk Fc
-Okean Nakhodha
-Pavlovo Fk
-Rostov
-Rostsel Fk
-Rotor Fc
-Rubin Kazan
-Saliot Belgorod 
-Saliot Belgorod Vector
-Saturn Ramenskoe 
-Saturnmoscow
-Selenga  
-Sodovik Fk
-Sokol Saratov
-Spartak Moskva Alt
-Spartak Moskva
-Spartak Orehovo 
-Spartakmosc
-Spartaknalchik
-Sportakademklub Moscow
-Tobol Kurgan
-Tomsk Soccer
-Torpedo Moscow 
-Volgar Astrakhan
-Volochanin Fc
-Vologda Soccer 
-Zarya Soccer
-Zenith Petersburg
-Zenitstpetersburg
-Zeytinburnu  
-Zhemch Fc
+**Rusia Liga Premier**
+- CSKA Moscow
+- FC Akhmat Grozny
+- FC Arsenal Tula
+- FC Dynamo Moscow
+- FC Krasnodar
+- FC Rostov
+- FC Rubin Kazan
+- FC Spartak Moscow
+- FC Tambov
+- FC Ufa
+- FC Ural Yekaterinburg
+- FC Zenit Saint Petersburg
+- Khimki
+- Lokomotiv Moscow
+- PFC Sochi
+- Rotor Fc
 
+**Rusia Otras Categorias**
+- Alania Vladikavkaz 
+- Alternate Khimk
+- Amkarperm
+- Arzamas Soccer 
+- Asmaral Moscow  
+- Cka Rostov
+- Csk Kristall 
+- Cska Soccer 
+- Cskamoscow
+- Dardanelspor  
+- Dynamo Saint Etersburg
+- Dynamo Stavropol
+- Dynamomoscow
+- Energiavladivostok
+- Energiya Khabarovsk
+- Energiya Velikiye Luki
+- Fc Anzhi
+- Fc Asmarl Moscow
+- Fc Avtomobilist Noginsk
+- Fc Chernomorets Novorossiysk.- 
+- Fc Chita
+- Fc Chkalovets Novosibirsk
+- Fc Chukotka
+- Fc Don Novomoskovsk
+- Fc Druzhba Maykop
+- Fc Dynamo Izhevsk
+- Fc Energetik Uren
+- Fc Fabus Bronnitsy
+- Fc Fakel Voronezh
+- Fc Gazovik Orenburg
+- Fc Gazovnik 2
+- Fc Kamaz
+- Fc Khimki
+- Fc Mozdok
+- Fc Nalchik
+- Fc Neftekhimik Nizhnekamsk
+- Fc Neftyanik Yaroslavl
+- Fc Spartak Shchyolkovo
+- Fk Avangard Kursk
+- Fk Avtodor Vladikavkaz
+- Fk Baltika Kaliningrad
+- Fk Beshtau
+- Fk Haderslev
+- Fk Kavkaz
+- Fk Lokomotiv Shakt
+- Fk Metalurg
+- Fk Partizan
+- Fk Pirmasens
+- Fk Sevojno 
+- Fk Smederevo 
+- Fk Ural
+- Fk Uralmash
+- Fk Zemun
+- Fks Stal Krasnik
+- Fks Stal Krasnik2
+- Fkzemun
+- Football Club Energy
+- Krylyasamara
+- Kuban Krasnodar 
+- Kuban Krasnodar Vector
+- Kubankrasnodar
+- Lada Simbirsk
+- Lada Togliatti
+- Ladagrad  
+- Lokomotiv 2
+- Lokomotiv Fk
+- Lokomotiv Kaluga
+- Luch Vladivostok
+- Moscow
+- Nizhniy Lokomotiv
+- Nostan Fc
+- Novosibirsk Fc
+- Okean Nakhodha
+- Pavlovo Fk
+- Rostov
+- Rostsel Fk
+- Saliot Belgorod 
+- Saliot Belgorod Vector
+- Saturn Ramenskoe 
+- Saturnmoscow
+- Selenga  
+- Sodovik Fk
+- Sokol Saratov
+- Spartak Moskva
+- Spartak Orehovo 
+- Spartaknalchik
+- Sportakademklub Moscow
+- Tobol Kurgan
+- Tomsk Soccer
+- Torpedo Moscow 
+- Volgar Astrakhan
+- Volochanin Fc
+- Vologda Soccer 
+- Zarya Soccer
+- Zenith Petersburg
+- Zenitstpetersburg
+- Zeytinburnu  
+- Zhemch Fc
 
 Serbia
 Aikbacka
@@ -2199,305 +2204,314 @@ Us Terre Sainte
 Young Boys 
 Yverdon Sport
 
-Turquia
-Adana Demirspor 
-Adanaspor  
-Altay 100yil Framed2
-Altay 100yil
-Altay Izmir  
-Ankaragucu  
-Antalyaspor  
-Antwerp
-Aydinspor 
-Bakirkoyspor 
-Besiktas  
-Boluspor  
-Bursaspor  
-Denizlispor  
-Erzurumspor  
-Eskisehirspor 
-Fener 
-Fenerbahce  
-Fenerbahce 
-Fenerbahce Sk
-Galatasaray  
-Genclerbirligi 
-Goztepesk Izmir
-Istanbulspor  
-Kahramanmaras Sk
-Karabukspor  
-Karsiyaka Spor 
-Kayserispor  
-Kocaelispor  
-Konyaspor  
-Ksk 100yil  Kaf Sin Kaf Ottoman Orig
-Malatyaspor  
-Petrol Ofisi Spor 
-Rot Weiss Erfurt 
-Sakaryaspor  
-Samsunspor  
-Sariyer Genclik
-Sekerspor  
-Trabzonspor 
-Vanspor 
-Vefa Sk
-Yozgatspor
+**Turquia Super Lig**
+- Alanyaspor
+- Antalyaspor
+- Besiktas Jimnastik Kulb
+- Denizlispor
+- Estambul Basaksehir F. K.
+- Fenerbah‡e S.K.
+- Galatasaray Spor Kulb
+- Gaziantep F.K.
+- Gen‡lerbirligi S.K.
+- G”ztepe S.K.
+- KasÕmpasa S.K.
+- Kayserispor
+- Konyaspor
+- MKE Ankaragc
+- Sivasspor
+- Trabzonspor
+- Yeni Malatyaspor
+- Caykur Rizespor
 
-United Kindom\Premier League
-Arsenal F.C.
-Aston Villa F.C.
-Brighton & Hove Albion F.C.
-Burnley F.C.
-Chelsea F.C.
-Crystal Palace F.C.
-Everton F.C.
-Fulham F.C.
-Leeds United F.C.
-Leicester City F.C.
-Liverpool F.C.
-Manchester City F.C.
-Manchester United F.C.
-Newcastle United F.C.
-Sheffield United F.C.
-Southampton F.C.
-Tottenham Hotspur F.C.
-West Bromwich Albion F.C.
-West Ham United F.C.
-Wolverhampton Wanderers F.C.
+**Turquia Otras Categorias**
+- Adana Demirspor
+- Adanaspor 
+- Altay 100yil Framed2
+- Altay 100yil
+- Altay Izmir 
+- Ankaragucu 
+- Antalyaspor 
+- Antwerp
+- Aydinspor
+- Bakirkoyspor
+- Besiktas 
+- Boluspor 
+- Bursaspor 
+- Erzurumspor 
+- Eskisehirspor
+- Istanbulspor 
+- Kahramanmaras Sk
+- Karabukspor 
+- Karsiyaka Spor
+- Kocaelispor 
+- Ksk 100yil  Kaf Sin Kaf Ottoman Orig
+- Malatyaspor 
+- Petrol Ofisi Spor
+- Rot Weiss Erfurt
+- Sakaryaspor 
+- Samsunspor 
+- Sariyer Genclik
+- Sekerspor 
+- Vanspor
+- Vefa Sk
+- Yozgatspor
 
-Uruguay\Otras Categorias
-Central Español Fútbol Club
-Club Atlético Bella Vista
-Escudeo De Paysandu
-Paysandu Football Club
-Rampla Juniors Football Club
-River Plate Football Club
+**United Kindom Premier League**
+- Arsenal F.C.
+- Aston Villa F.C.
+- Brighton & Hove Albion F.C.
+- Burnley F.C.
+- Chelsea F.C.
+- Crystal Palace F.C.
+- Everton F.C.
+- Fulham F.C.
+- Leeds United F.C.
+- Leicester City F.C.
+- Liverpool F.C.
+- Manchester City F.C.
+- Manchester United F.C.
+- Newcastle United F.C.
+- Sheffield United F.C.
+- Southampton F.C.
+- Tottenham Hotspur F.C.
+- West Bromwich Albion F.C.
+- West Ham United F.C.
+- Wolverhampton Wanderers F.C.
 
-Uruguay\Primera División de Uruguay
-Centro Atlético Fénix
-Cerro Largo Fútbol Club
-Club Atlético Boston River
-Club Atlético Cerro
-Club Atlético Peñarol
-Club Atlético Progreso
-Club Atlético Rentistas
-Club Atlético River Plate (Montevideo)
-Club Nacional de Football
-Club Plaza Colonia de Deportes
-Danubio Fútbol Club
-Defensor Sporting Club
-Deportivo Maldonado S.A.D.
-Liverpool Fútbol Club
-Montevideo City Torque
-Montevideo Wanderers Fútbol Club
+**Uruguay Primera División de Uruguay**
+- Centro Atlético Fénix
+- Cerro Largo Fútbol Club
+- Club Atlético Boston River
+- Club Atlético Cerro
+- Club Atlético Peñarol
+- Club Atlético Progreso
+- Club Atlético Rentistas
+- Club Atlético River Plate (Montevideo)
+- Club Nacional de Football
+- Club Plaza Colonia de Deportes
+- Danubio Fútbol Club
+- Defensor Sporting Club
+- Deportivo Maldonado S.A.D.
+- Liverpool Fútbol Club
+- Montevideo City Torque
+- Montevideo Wanderers Fútbol Club
 
-Varios
-Adelaidecrows
-Amica Sport Ssa
-Argentino Football
-Asnl La Rage De Reussir
-Batatais Fc Sp
-Berliner Tennis  
-Boysz
-Brisbanelions
-Cafeopera
-Canbera Cosmos 
-Carlton
-Collingwood
-Essendon
-Fc Bramsnaes
-Fc Coutisse2
-Fc Irtysh Omsk
-Fc Irtysh
-Fc Paliseul
-Fc Slovacka Slavia
-Fc Wieze
-Federaciones
-Football Symbol Portal
-Football Theme Illustration Portal
-Freemantlefc
-Fsj 
-Geelnogfc
-Glory Perth 
-Gr Rampage
-Greater Western Sydney 
-Gws Giants 
-Hawthorn Football Club Brand
-Hawthrone Hawks 
-Kangaroos
-Kkp Kolporter Korona
-Korup If
-Kosmos Elektrostal
-Ks Alapaw Slawa Slawecin
-Ks Bumar
-Ks Cis Brzeznica
-Marconi Soccer 
-Melbourne
-Mundiales
-Oazisy Fk
-Parramatta 
-Pioneira Futebol Clube  Df
-Queenslandroar
-Reform Fk
-Richmondtigers
-Rks Stal Krasnik
-Samotlor Fk
-Sartid
-Sc La Stella Groynnoise
-Servico Grafico  Df
-Shaarawy
-South Melbourne 
-Ssa Jagiellonia Wersal Podlaski
-St Merlose If
-Stkilda
-Sturm 4c
-Sturmsw
-Sydney United 
-Sydneyfc
-Sydneyswans
-Tekstilbik
-Thor If Kr Saaby
-Vk Nieuw Beervelde
-Westcoasteagles
-Westernbulld
-World Cup Rugby League 
-Zlks Medyk Ciborz
-Zug 94 2
-Zug 94
+**Uruguay Otras Categorias**
+- Central Español Fútbol Club
+- Club Atlético Bella Vista
+- Escudeo De Paysandu
+- Paysandu Football Club
+- Rampla Juniors Football Club
+- River Plate Football Club
 
-Varios\Federaciones
-A Portuguesa Desportos Sp
-Afa
-Afc [converted]
-Afc
-Afc2
-Afcchampions
-Afl
-Aguilla Football Association
-Alliance Sportive Eupen
-Argentine Football Association
-Asian Club Championship
-Asian Cup Lebanon
-Asian Super Cup
-Associazione Italiana Calciatori
-Austrian Football Association Old
-Bahamas Football Association
-Barbados Football Association
-Belgium Federation 
-Belize Fa 2
-Bermuda Football Association
-Bonaire Football Federation 2
-Brasilia Esporte Clube De Brasilia Df
-Brasiliense Futebol Clube  Df
-British Virgin Islands Football Association
-Bundesliga
-Bundesliga2
-Bundesliga2a
-Bundesliga3
-Bundesligalogo
-Caf
-Caf2
-Canadian Soccer Association 
-Cayman Islands Football Association
-Champions League Cup
-Championsleague
-Champisniortais
-Clathens2007
-Concacaf 
-Concacaf
-Copa America Paraguay
-Copa America
-Csf
-Curacao Football Federation
-Czech Assoc Old 
-Dfb 
-Die Bundes Liga
-Division 2 Denmark 
-Dominica Football Association
-Erstecolor
-Ersteliga1
-Euro2012 Nations
-Faxe Kondi Divisionen
-Faxe Kondi Ligaen
-Fcf 
-Fef
-Fesfut 
-Ffa
-Fff2
-Fmfmexicansoccerleague
-Football Association Of Cuba
-Fpf
-France Football Federation
-Fsc Lohfelden
-Gambrinus Liga
-Guatemala Fa
-Guyana Football Federation
-Honduras Fa
-Hyundaialeague
-Iff
-Italy Football Federation
-Jamaica Football Federation
-Japan Football Federation
-Japan League
-Jff
-Jleague
-Knvb Netherlands
-Leaguepro
-Lega Nazionale Dilettanti 
-Legacalciob
-Liga Mx
-Ligue De Football De La Guyane
-Ligue De Football De La Martinique
-Mexican Football Federation
-Mexico Fa
-Montserrat Football Association
-Nicaragua Fa 
-Oceania
-Oceania2
-Panama Fa 2
-Paraguay Copa America
-Polonia
-Primera 
-Professional Russian League
-Pzpn
-Russian Football Federation
-Saint Kitts & Nevis Football Association
-Saint Vincent And The Grenadines Football Federation
-Sasligaen
-Serbia Soccer Emblem
-Seriea
-Serieb
-Sint Maarten Soccer Association
-Sks Polonia Gdansk
-Sks Polonia Gdansk2
-Soccer Australia 
-Stade De France
-Surinamese Football Association
-Svff
-Svffbw
-Switzerland Football Assosiation
-Telsim Turkey League 
-Tmobilebundescolor
-Ts Polonia
-Turkish Football Federation
-Turks & Caicos Islands Football Association
-Uefa2008em
-Unam Soccer  2009
-Us Virgin Islands Soccer Federation
-Ussr Foootball Federation
+**Varios**
+- Adelaidecrows
+- Amica Sport Ssa
+- Argentino Football
+- Asnl La Rage De Reussir
+- Batatais Fc Sp
+- Berliner Tennis  
+- Boysz
+- Brisbanelions
+- Cafeopera
+- Canbera Cosmos 
+- Carlton
+- Collingwood
+- Essendon
+- Fc Bramsnaes
+- Fc Coutisse2
+- Fc Irtysh Omsk
+- Fc Irtysh
+- Fc Paliseul
+- Fc Slovacka Slavia
+- Fc Wieze
+- Federaciones
+- Football Symbol Portal
+- Football Theme Illustration Portal
+- Freemantlefc
+- Fsj 
+- Geelnogfc
+- Glory Perth 
+- Gr Rampage
+- Greater Western Sydney 
+- Gws Giants 
+- Hawthorn Football Club Brand
+- Hawthrone Hawks 
+- Kangaroos
+- Kkp Kolporter Korona
+- Korup If
+- Kosmos Elektrostal
+- Ks Alapaw Slawa Slawecin
+- Ks Bumar
+- Ks Cis Brzeznica
+- Marconi Soccer 
+- Melbourne
+- Mundiales
+- Oazisy Fk
+- Parramatta 
+- Pioneira Futebol Clube  Df
+- Queenslandroar
+- Reform Fk
+- Richmondtigers
+- Rks Stal Krasnik
+- Samotlor Fk
+- Sartid
+- Sc La Stella Groynnoise
+- Servico Grafico  Df
+- Shaarawy
+- South Melbourne 
+- Ssa Jagiellonia Wersal Podlaski
+- St Merlose If
+- Stkilda
+- Sturm 4c
+- Sturmsw
+- Sydney United 
+- Sydneyfc
+- Sydneyswans
+- Tekstilbik
+- Thor If Kr Saaby
+- Vk Nieuw Beervelde
+- Westcoasteagles
+- Westernbulld
+- World Cup Rugby League 
+- Zlks Medyk Ciborz
+- Zug 94 2
+- Zug 94
 
-Varios\Mundiales
-1970 - Mexico
-1974 - West Germany
-1978 - Argentina
-1982 - Espana
-1986 - Mexico86
-1990 - Italia90
-1994 - USA
-1998 - France
-2002 - Korea -Japan
-2006 - Germany
-2010 - Southafrica
-2014 - Brasil
-2018 - Russia
-Fifaworldcup
+**Varios Federaciones**
+- A Portuguesa Desportos Sp
+- Afa
+- Afc [converted]
+- Afc
+- Afc2
+- Afcchampions
+- Afl
+- Aguilla Football Association
+- Alliance Sportive Eupen
+- Argentine Football Association
+- Asian Club Championship
+- Asian Cup Lebanon
+- Asian Super Cup
+- Associazione Italiana Calciatori
+- Austrian Football Association Old
+- Bahamas Football Association
+- Barbados Football Association
+- Belgium Federation 
+- Belize Fa 2
+- Bermuda Football Association
+- Bonaire Football Federation 2
+- Brasilia Esporte Clube De Brasilia Df
+- Brasiliense Futebol Clube  Df
+- British Virgin Islands Football Association
+- Bundesliga
+- Bundesliga2
+- Bundesliga2a
+- Bundesliga3
+- Bundesligalogo
+- Caf
+- Caf2
+- Canadian Soccer Association 
+- Cayman Islands Football Association
+- Champions League Cup
+- Championsleague
+- Champisniortais
+- Clathens2007
+- Concacaf 
+- Concacaf
+- Copa America Paraguay
+- Copa America
+- Csf
+- Curacao Football Federation
+- Czech Assoc Old 
+- Dfb 
+- Die Bundes Liga
+- Division 2 Denmark 
+- Dominica Football Association
+- Erstecolor
+- Ersteliga1
+- Euro2012 Nations
+- Faxe Kondi Divisionen
+- Faxe Kondi Ligaen
+- Fcf 
+- Fef
+- Fesfut 
+- Ffa
+- Fff2
+- Fmfmexicansoccerleague
+- Football Association Of Cuba
+- Fpf
+- France Football Federation
+- Fsc Lohfelden
+- Gambrinus Liga
+- Guatemala Fa
+- Guyana Football Federation
+- Honduras Fa
+- Hyundaialeague
+- Iff
+- Italy Football Federation
+- Jamaica Football Federation
+- Japan Football Federation
+- Japan League
+- Jff
+- Jleague
+- Knvb Netherlands
+- Leaguepro
+- Lega Nazionale Dilettanti 
+- Legacalciob
+- Liga Mx
+- Ligue De Football De La Guyane
+- Ligue De Football De La Martinique
+- Mexican Football Federation
+- Mexico Fa
+- Montserrat Football Association
+- Nicaragua Fa 
+- Oceania
+- Oceania2
+- Panama Fa 2
+- Paraguay Copa America
+- Polonia
+- Primera 
+- Professional Russian League
+- Pzpn
+- Russian Football Federation
+- Saint Kitts & Nevis Football Association
+- Saint Vincent And The Grenadines Football Federation
+- Sasligaen
+- Serbia Soccer Emblem
+- Seriea
+- Serieb
+- Sint Maarten Soccer Association
+- Sks Polonia Gdansk
+- Sks Polonia Gdansk2
+- Soccer Australia 
+- Stade De France
+- Surinamese Football Association
+- Svff
+- Svffbw
+- Switzerland Football Assosiation
+- Telsim Turkey League 
+- Tmobilebundescolor
+- Ts Polonia
+- Turkish Football Federation
+- Turks & Caicos Islands Football Association
+- Uefa2008em
+- Unam Soccer  2009
+- Us Virgin Islands Soccer Federation
+- Ussr Foootball Federation
+
+**Varios Mundiales**
+- 1970 - Mexico
+- 1974 - West Germany
+- 1978 - Argentina
+- 1982 - Espana
+- 1986 - Mexico86
+- 1990 - Italia90
+- 1994 - USA
+- 1998 - France
+- 2002 - Korea -Japan
+- 2006 - Germany
+- 2010 - Southafrica
+- 2014 - Brasil
+- 2018 - Russia
+- Fifaworldcup
