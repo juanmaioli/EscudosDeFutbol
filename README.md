@@ -2076,96 +2076,101 @@ Escudos y Logos de Equipos de Futbol del mundo.
 - Spartak Subotica
 - Vojvodina
 
+ **Suecia Allsvenskan**
+- AFC Eskilstuna
+- Aik Fotbol Stockholm
+- BK Häcken
+- Djurgårdens IF Fotboll
+- Falkenbergs FF
+- GIF Sundsvall
+- Hammarby IF
+- Helsingborgs IF
+- IF Elfsborg
+- IFK Göteborg
+- IFK Norrköping
+- IK Sirius Fotboll
+- Kalmar FF
+- Malmo Ff
+- Örebro SK
+- Östersunds FK
 
-Suecia
-Ahlafors If
-Aik Fotbol Stockholm
-All Svenskan  2
-All Svenskan 
-Allsvenskan
-Atvidaberg
-Bk Forward
-Bkhacken
-Bodens Bk
-Brage
-Dam Alsvenskan 
-Damallsvenskan
-Degerfors
-Djurgarden If
-Enkopings Sk
-Ersboda Sk
-Eskilstuna City Fk
-Fassbergs If
-Fc Gute
-Fc Rosengard
-Fc Schotz
-Fc Solothurn
-Fc Trollhattan
-Fc Trollhattan2
-Friska Viljor Fc
-Frolunda
-Halmstadsbk
-Hammarby
-Hassleholms If
-Hemsjo If
-Hudiksvalls Ff
-Husqvarna Ff
-Husqvarna
-Husqvarna1
-If Sylvia
-Ifk Hassleholm
-Ifk Lulea
-Ifk Malmo
-Ifkbw
-Ifkcmyk
-Ifkheim
-Ik Brage
-Ik Gauthiod
-Ik Oddevold
-Ik Sleipner
-Karlskrona Aif
-Karlstad Bk
-Landskrona Bois
-Lilla Torg Ff
-Limmaredes If
-Ljungbz
-Ljungskille
-Lulea Soccer 
-Lunds Bk
-Malmo Anadolu Bi
-Malmo Anadolu Bi2
-Malmo Ff
-Mariehem Sk
-Matfors If
-Molndal
-Motala Aif
-Norrby If
-Norrby
-Norrkoping
-Nybro If
-Nykobing Alliancen
-Nykopings Bis
-Orgryte
-Osted If
-Osters If
-Pitea If
-Qviding Fif
-Qviding Fif2
-Redstar
-Skelleftea Ff
-Skelleftea Ff2
-Skovde Aik
-Sollentuna United
-Spanga Is
-Superettan
-Syrianska If Kerburan
-Tenhults If
-Trelleborgs Ff
-Umea Fc
-Valsta Syrianska Ik
-Varmbols Fc
-Vasteras Sk
-Vastra Frolunda If
+**Suecia Otras Categorias**
+- Ahlafors If
+- All Svenskan
+- Atvidaberg
+- Bk Forward
+- Bkhacken
+- Bodens Bk
+- Brage
+- Dam Alsvenskan
+- Degerfors
+- Enkopings Sk
+- Ersboda Sk
+- Eskilstuna City Fk
+- Fassbergs If
+- Fc Gute
+- Fc Rosengard
+- Fc Schotz
+- Fc Solothurn
+- Fc Trollhattan
+- Friska Viljor Fc
+- Frolunda
+- Halmstadsbk
+- Hassleholms If
+- Hemsjo If
+- Hudiksvalls Ff
+- Husqvarna Ff
+- Husqvarna
+- If Sylvia
+- Ifk Hassleholm
+- Ifk Lulea
+- Ifk Malmo
+- Ifkheim
+- Ik Brage
+- Ik Gauthiod
+- Ik Oddevold
+- Ik Sleipner
+- Karlskrona Aif
+- Karlstad Bk
+- Landskrona Bois
+- Lilla Torg Ff
+- Limmaredes If
+- Ljungbz
+- Ljungskille
+- Lulea Soccer
+- Lunds Bk
+- Malmo Anadolu Bi
+- Malmo Anadolu Bi2
+- Mariehem Sk
+- Matfors If
+- Molndal
+- Motala Aif
+- Norrby If
+- Norrby
+- Nybro If
+- Nykobing Alliancen
+- Nykopings Bis
+- Orgryte
+- Osted If
+- Osters If
+- Pitea If
+- Qviding Fif
+- Qviding Fif2
+- Redstar
+- Skelleftea Ff
+- Skelleftea Ff2
+- Skovde Aik
+- Sollentuna United
+- Spanga Is
+- Superettan
+- Syrianska If Kerburan
+- Tenhults If
+- Trelleborgs Ff
+- Umea Fc
+- Valsta Syrianska Ik
+- Varmbols Fc
+- Vasteras Sk
+- Vastra Frolunda If
 
 **Suiza Swiss Super League**
 - Berner Sport Club Young Boys
