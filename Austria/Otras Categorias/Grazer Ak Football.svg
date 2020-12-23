@@ -1,1 +1,71 @@
-<svg enable-background="new 0 0 660 660" viewBox="0 0 660 660" xmlns="http://www.w3.org/2000/svg"><path d="m23.693 23.71h621.439v621.439h-621.439z"/><path d="m16.5 14.7h549.222l-365.496 623.966h-183.726z" fill="#fff"/><path d="m437.802 570.595v-222.256h37.509v222.256zm123.235 0-64.75-112.108.014-.008-.013-.004 64.654-110.136h43.44l-64.7 110.292 64.663 111.964z" fill="#fff"/><path d="m182.247 445.354h99.394l58.999-100.653.004.023.007-.052 132.477 225.924-41.044-.001-63.259-108.148-28.035-47.929-18.314 31.102 20.522 35.098h-41.212l-21.747 37.156-.008.003c-18.723 33.834-53.637 56.908-95.112 56.908-62.462 0-113.404-50.947-113.404-113.413 0-62.465 50.942-113.413 113.404-113.413v35.361c-42.985 0-78.047 35.062-78.047 78.052 0 42.989 35.061 78.053 78.047 78.053 26.813 0 49.275-14.178 62.288-35.318l13.707-23.389h-78.666v-35.364z" fill="#ee3124"/></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   enable-background="new 0 0 660 660"
+   viewBox="0 0 1000 1000"
+   version="1.1"
+   id="svg10"
+   sodipodi:docname="Grazer Ak Football.svg"
+   width="1000"
+   height="1000"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
+  <metadata
+     id="metadata16">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs14" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     id="namedview12"
+     showgrid="false"
+     inkscape:zoom="0.845"
+     inkscape:cx="500"
+     inkscape:cy="500"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg10" />
+  <g
+     id="g845"
+     transform="matrix(1.5068626,0,0,1.5068626,1.5057421,2.8491101)">
+    <path
+       d="M 23.693,23.71 H 645.132 V 645.149 H 23.693 Z"
+       id="path2" />
+    <path
+       d="M 16.5,14.7 H 565.722 L 200.226,638.666 H 16.5 Z"
+       fill="#ffffff"
+       id="path4" />
+    <path
+       d="M 437.802,570.595 V 348.339 h 37.509 v 222.256 z m 123.235,0 -64.75,-112.108 0.014,-0.008 -0.013,-0.004 64.654,-110.136 h 43.44 l -64.7,110.292 64.663,111.964 z"
+       fill="#ffffff"
+       id="path6" />
+    <path
+       d="m 182.247,445.354 h 99.394 l 58.999,-100.653 0.004,0.023 0.007,-0.052 132.477,225.924 -41.044,-10e-4 -63.259,-108.148 -28.035,-47.929 -18.314,31.102 20.522,35.098 h -41.212 l -21.747,37.156 -0.008,0.003 c -18.723,33.834 -53.637,56.908 -95.112,56.908 -62.462,0 -113.404,-50.947 -113.404,-113.413 0,-62.465 50.942,-113.413 113.404,-113.413 v 35.361 c -42.985,0 -78.047,35.062 -78.047,78.052 0,42.989 35.061,78.053 78.047,78.053 26.813,0 49.275,-14.178 62.288,-35.318 l 13.707,-23.389 h -78.666 v -35.364 z"
+       fill="#ee3124"
+       id="path8" />
+  </g>
+</svg>
