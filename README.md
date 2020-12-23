@@ -1167,743 +1167,744 @@ Escudos y Logos de Equipos de Futbol del mundo.
 - Uscreteil
 - Usv Eschen Mauren
 
-Grecia\Otras Categorias
-Aigalio
-Akropolis If
-Apollonkalamarias
-Ergotelis
-Fc Aek Atena
-Greecesuperleague
-Hellenicff
-Ionikos
-Iraklis 1908 Fc
-Iraklis
-Kerkira
-Niki Volos F
-Pae Ionikos Ikaias
-Panachaiki Fc 
-Paniliakos F
-Skodaxanthi
+**Grecia Superliga de Grecia**
+- AEK Athens F.C.
+- Aris Thessaloniki FC?
+- Asteras Trípoli Football Club
+- Athlitiki Enosi Larissa F.C.
+- Lamia F.C.
+- O.F.I. Creta F.C.
+- Olympiakos de El Pireo
+- PAE APS Atromitos Athinon
+- Panathinaikos Fútbol Club
+- Panetolikos
+- Panionios F.C.
+- PAOK F. C.( Salónica)
+- Volos NFC
+- Xanthi Athlitikos Omilos
 
-Grecia\Superliga de Grecia
-AEK Athens F.C.
-Aris Thessaloniki FC?
-Asteras Trípoli Football Club
-Athlitiki Enosi Larissa F.C.
-Lamia F.C.
-O.F.I. Creta F.C.
-Olympiakos de El Pireo
-PAE APS Atromitos Athinon
-Panathinaikos Fútbol Club
-Panetolikos
-Panionios F.C.
-PAOK F. C.( Salónica)
-Volos NFC
-Xanthi Athlitikos Omilos
+**Grecia Otras Categorias**
+- Aigalio
+- Akropolis If
+- Apollonkalamarias
+- Ergotelis
+- Fc Aek Atena
+- Greecesuperleague
+- Hellenicff
+- Ionikos
+- Iraklis 1908 Fc
+- Iraklis
+- Kerkira
+- Niki Volos F
+- Pae Ionikos Ikaias
+- Panachaiki Fc 
+- Paniliakos F
+- Skodaxanthi
 
-Hungria\OTP Bank Liga
-Budapest Honvéd FC
-Debreceni VSC
-Diósgyori VTK
-Fehérvár FC
-Ferencváros Torna Club
-Kaposvári Rákóczi
-Kisvárda FC
-Mezokövesdi SE
-Paksi FC
-Puskás Akadémia FC
-Zalaegerszegi TE
-Újpest FC
+**Hungria OTP Bank Liga**
+- Budapest Honvéd FC
+- Debreceni VSC
+- Diósgyori VTK
+- Fehérvár FC
+- Ferencváros Torna Club
+- Kaposvári Rákóczi
+- Kisvárda FC
+- Mezokövesdi SE
+- Paksi FC
+- Puskás Akadémia FC
+- Zalaegerszegi TE
+- Újpest FC
 
-Hungria\Otras Categorias
-Bvsc 
-Fc Diosgyori
-Magyar Labdarugo 
-Ujpest 
+**Hungria Otras Categorias**
+- Bvsc 
+- Fc Diosgyori
+- Magyar Labdarugo 
+- Ujpest 
 
-Italia\Otras Categorias
-Ac Cuneo 1905
-Ac Lumezzane
-Ac Monza Brianza
-Ac Pavia
-Ac Perugia 1905
-Ac Pisa Calcio 1909
-Ac Prato 1908
-Ac Reggiana
-Ac Savoia
-Ac Siena2
-Ac Voghera
-Acroma
-Albinoleffe
-Alzano Virescit Fc
-Ancona 
-Ancona Alter 
-Arezzo
-As Avellino
-As Casale Calcio
-As Cittadella
-As Fidelis Andria
-As Livorno
-As Taranto Calcio
-As Varese 1910
-Asbari
-Ascoli Picchio Fc 1898
-Ascoli
-Asd Giorgione Calcio
-Asd Hinterreggio
-Asd Pomigliano Calcio
-Asd Trapani Calcio
-Asg Nocerina
-Aslivorno
-Atletico Roma Fc
-Avellino Calcio 
-Bassano Virtus 55 St
-Brescia Calcio3
-Brescia Calcio4
-Brescia Old 
-Brescia
-Calcio Lecco 1912
-Calcio Monza Fc
-Calcio Padova
-Calcio Padova2
-Calcio Padova5
-Calcio Portogruaro Summaga
-Carpi 1909
-Carpi Fc 1909 
-Casertana Fc
-Catania
-Cesena
-Chievoverona
-Como Calcio 1907
-Cosenza Old 
-Cuore Rossoblu Cagliari
-F.C. Pro Vercelli 1892 
-Fc Bari
-Fc Brescia Calcio
-Fc Calgiari
-Fc Esperia Viareggio
-Fc Padova
-Fc Salernitana
-Fc Südtirol 
-Feralpisalo Calcio
-Foligno Calcio
-Foligno Calcio2
-Frosinone
-Gais
-Juve Stabia 
-Latina Calcio
-Lecce
-Lumezzane 
-Mantova
-Messina
-Modena
-Monza 
-Novara Calcio 
-Paganese Calcio
-Palermo Us Old 
-Palermo
-Palestra Italia  
-Pescara1
-Piacenza Calcio
-Pisa Calcio Fc
-Polisportiva Tamai
-Pro Sesto 
-Pro Vercelli 1892
-Reggina Calcio
-Reggina Calcio4
-Reggina
-Riminicalcio
-Roma
-Romaglad
-Salernitana Calcio 1919
-Sambenedettese Calcio
-Siena
-Sorrento Calcio
-Spal 1907
-Spal 2013
-Spal Labor Fc
-Srl L Aquila 1927
-Ss Barletta Calcio
-Ss Cavese 1919
-Ss Chieti
-Ss Palestra Italia Sp
-Ss Palestra Italia Sp2
-Ss Tritium 1908
-Ss Virtus Lanciano
-Sslazio
-Sudtirol Calcio
-Taranto Fc
-Teramo Calcio
-Ternana 
-Trapani Asd 
-Treviso Fbc 1993
-Treviso
-Triestina
-U.S. Latina Calcio 
-Uc Albinoleffe
-Ucam Murcia
-Ucsampdoria
-Us Arezzo
-Us Aurora Desio
-Us Avellino
-Us Cremonese
-Us Foggia
-Us Grosseto
-Us Latina
-Us Lecce
-Us Triestina Calcio
-Varese Calcio Ssd
-Varese Fc 
-Vicenza Calcio
-Virtus Entella
-Virtus Lanciano 
+**Italia Serie A**
+- ACF Fiorentina
+- Associazione Calcio Milan
+- Associazione Sportiva Roma
+- Atalanta Bergamasca Calcio
+- Benevento Calcio
+- Bologna Football Club 1909
+- Cagliari Calcio
+- F.C. Crotone
+- Football Club Internazionale Milano
+- Genoa Cricket and Football Club
+- Hellas Verona Football Club
+- Juventus Football Club
+- Parma Calcio 1913 Club
+- Società Sportiva Calcio Napoli
+- Società Sportiva Lazio
+- Spezia Calcio
+- Torino Football Club
+- Udinese Calcio
+- Unione Calcio Sampdoria
+- Unione Sportiva Sassuolo Calcio
 
-Italia\Serie A
-ACF Fiorentina
-Associazione Calcio Milan
-Associazione Sportiva Roma
-Atalanta Bergamasca Calcio
-Benevento Calcio
-Bologna Football Club 1909
-Cagliari Calcio
-F.C. Crotone
-Football Club Internazionale Milano
-Genoa Cricket and Football Club
-Hellas Verona Football Club
-Juventus Football Club
-Parma Calcio 1913 Club
-Società Sportiva Calcio Napoli
-Società Sportiva Lazio
-Spezia Calcio
-Torino Football Club
-Udinese Calcio
-Unione Calcio Sampdoria
-Unione Sportiva Sassuolo Calcio
+**Italia Otras Categorias**
+- Ac Cuneo 1905
+- Ac Lumezzane
+- Ac Monza Brianza
+- Ac Pavia
+- Ac Perugia 1905
+- Ac Pisa Calcio 1909
+- Ac Prato 1908
+- Ac Reggiana
+- Ac Savoia
+- Ac Siena2
+- Ac Voghera
+- Acroma
+- Albinoleffe
+- Alzano Virescit Fc
+- Ancona 
+- Ancona Alter 
+- Arezzo
+- As Avellino
+- As Casale Calcio
+- As Cittadella
+- As Fidelis Andria
+- As Livorno
+- As Taranto Calcio
+- As Varese 1910
+- Asbari
+- Ascoli Picchio Fc 1898
+- Ascoli
+- Asd Giorgione Calcio
+- Asd Hinterreggio
+- Asd Pomigliano Calcio
+- Asd Trapani Calcio
+- Asg Nocerina
+- Aslivorno
+- Atletico Roma Fc
+- Avellino Calcio 
+- Bassano Virtus 55 St
+- Brescia Calcio3
+- Brescia Calcio4
+- Brescia Old 
+- Brescia
+- Calcio Lecco 1912
+- Calcio Monza Fc
+- Calcio Padova
+- Calcio Padova2
+- Calcio Padova5
+- Calcio Portogruaro Summaga
+- Carpi 1909
+- Carpi Fc 1909 
+- Casertana Fc
+- Catania
+- Cesena
+- Chievoverona
+- Como Calcio 1907
+- Cosenza Old 
+- Cuore Rossoblu Cagliari
+- F.C. Pro Vercelli 1892 
+- Fc Bari
+- Fc Brescia Calcio
+- Fc Calgiari
+- Fc Esperia Viareggio
+- Fc Padova
+- Fc Salernitana
+- Fc Südtirol 
+- Feralpisalo Calcio
+- Foligno Calcio
+- Foligno Calcio2
+- Frosinone
+- Gais
+- Juve Stabia 
+- Latina Calcio
+- Lecce
+- Lumezzane 
+- Mantova
+- Messina
+- Modena
+- Monza 
+- Novara Calcio 
+- Paganese Calcio
+- Palermo Us Old 
+- Palermo
+- Palestra Italia  
+- Pescara1
+- Piacenza Calcio
+- Pisa Calcio Fc
+- Polisportiva Tamai
+- Pro Sesto 
+- Pro Vercelli 1892
+- Reggina Calcio
+- Reggina Calcio4
+- Reggina
+- Riminicalcio
+- Roma
+- Romaglad
+- Salernitana Calcio 1919
+- Sambenedettese Calcio
+- Siena
+- Sorrento Calcio
+- Spal 1907
+- Spal 2013
+- Spal Labor Fc
+- Srl L Aquila 1927
+- Ss Barletta Calcio
+- Ss Cavese 1919
+- Ss Chieti
+- Ss Palestra Italia Sp
+- Ss Palestra Italia Sp2
+- Ss Tritium 1908
+- Ss Virtus Lanciano
+- Sslazio
+- Sudtirol Calcio
+- Taranto Fc
+- Teramo Calcio
+- Ternana 
+- Trapani Asd 
+- Treviso Fbc 1993
+- Treviso
+- Triestina
+- U.S. Latina Calcio 
+- Uc Albinoleffe
+- Ucam Murcia
+- Ucsampdoria
+- Us Arezzo
+- Us Aurora Desio
+- Us Avellino
+- Us Cremonese
+- Us Foggia
+- Us Grosseto
+- Us Latina
+- Us Lecce
+- Us Triestina Calcio
+- Varese Calcio Ssd
+- Varese Fc 
+- Vicenza Calcio
+- Virtus Entella
+- Virtus Lanciano 
 
-Japon\Meiji Yasuda J1 League
-Cerezo Osaka
-Fc Gamba Osaka
-Fc Tokyo
-Hokkaido Consadole Sapporo
-Júbilo Iwata
-Kashima Antlers
-Kawasaki Frontale
-Matsumoto Yamaga FC
-Nagoya Grampus
-Oita Trinita
-Sagan Tosu
-Sanfrecce Hiroshima
-Shimizus Pulse
-Shonan Bellmare
-Urawa Red Diamonds
-Vegalta Sendai
-Vissel_Kobe
-Yokohama F. Marinos
+**Japon Meiji Yasuda J1 League**
+- Cerezo Osaka
+- Fc Gamba Osaka
+- Fc Tokyo
+- Hokkaido Consadole Sapporo
+- Júbilo Iwata
+- Kashima Antlers
+- Kawasaki Frontale
+- Matsumoto Yamaga FC
+- Nagoya Grampus
+- Oita Trinita
+- Sagan Tosu
+- Sanfrecce Hiroshima
+- Shimizus Pulse
+- Shonan Bellmare
+- Urawa Red Diamonds
+- Vegalta Sendai
+- Vissel_Kobe
+- Yokohama F. Marinos
 
-Japon\Otras Ligas
-Albirexnigata
-Antlers Kashima
-Bellmare Hiratsuka Fc
-Consadolesapporo
-Ehime
-Fc Yokohama
-Fcgifu
-Fcryukyu
-Fctokyo
-Gambaosaka
-Grampus Nagoya  
-Jr East Furukawa
-Kashiwareysol
-Kyotosanga
-Kyotu Purple Sanga  
-Mitohollyhock
-Mitsubishiurawa
-Montedioyamagata
-Norbritzhokkaido
-Omiyaardija
-Thespakhusatsu
-Tokyoverdi
-Tookushimavortis
-Ventforetkofu
-Vissel Kobe Fc
-Yokohama Fc  Type
-Yokohamafc
+**Japon Otras Ligas**
+- Albirexnigata
+- Antlers Kashima
+- Bellmare Hiratsuka Fc
+- Consadolesapporo
+- Ehime
+- Fc Yokohama
+- Fcgifu
+- Fcryukyu
+- Fctokyo
+- Gambaosaka
+- Grampus Nagoya  
+- Jr East Furukawa
+- Kashiwareysol
+- Kyotosanga
+- Kyotu Purple Sanga  
+- Mitohollyhock
+- Mitsubishiurawa
+- Montedioyamagata
+- Norbritzhokkaido
+- Omiyaardija
+- Thespakhusatsu
+- Tokyoverdi
+- Tookushimavortis
+- Ventforetkofu
+- Vissel Kobe Fc
+- Yokohama Fc  Type
+- Yokohamafc
 
-Mexico\Liga BBVA MX
-Atlas Fútbol Club
-Atlético San Luis
-Club América
-Club de Fútbol Monterrey
-Club de Fútbol Pachuca
-Club Deportivo Cruz Azul
-Club Deportivo Guadalajara
-Club Léon
-Club Necaxa
-Club Puebla
-Club Tijuana
-Club Universidad Nacional
-Deportivo Toluca Fútbol Club
-Fútbol Club Juárez
-Mazatlán Futbol Club
-Querétaro Fútbol Club
-Santos Laguna
-Tigres UANL
+**Mexico Liga BBVA MX**
+- Atlas Fútbol Club
+- Atlético San Luis
+- Club América
+- Club de Fútbol Monterrey
+- Club de Fútbol Pachuca
+- Club Deportivo Cruz Azul
+- Club Deportivo Guadalajara
+- Club Léon
+- Club Necaxa
+- Club Puebla
+- Club Tijuana
+- Club Universidad Nacional
+- Deportivo Toluca Fútbol Club
+- Fútbol Club Juárez
+- Mazatlán Futbol Club
+- Querétaro Fútbol Club
+- Santos Laguna
+- Tigres UANL
 
-Mexico\Otras Categorias
-Altamira 
-Atlantealternativo
-Aurrera 
-Cd Irapuato
-Cd_guadalajara
-Celaya Fc 2011 [converted]
-Cf Indios 
-Cf Monterrey New
-Cf Saltillo
-Correcaminos Club
-Delfines Fc Ciudad Del Carmen 2013
-Dorados De Sinaloa
-Irapuato Por Siempre
-Jaguaresdechiapas2002 
-La Piedad Cf
-Monarcasmorelia1999 
-Monterrey Soccer  2009
-Neza Fc
-Puebla De La Franja
-Tecos Fc
-Tiburones Rojos
-Toluca 1970 
-Toros Neza
-              23 archivos        774.558 bytes
+**Mexico Otras Categorias**
+- Altamira 
+- Atlantealternativo
+- Aurrera 
+- Cd Irapuato
+- Cd_guadalajara
+- Celaya Fc
+- Cf Indios 
+- Cf Monterrey New
+- Cf Saltillo
+- Correcaminos Club
+- Delfines Fc Ciudad Del Carmen 2013
+- Dorados De Sinaloa
+- Irapuato Por Siempre
+- Jaguaresdechiapas2002 
+- La Piedad Cf
+- Monarcasmorelia1999 
+- Monterrey Soccer  2009
+- Neza Fc
+- Puebla De La Franja
+- Tecos Fc
+- Tiburones Rojos
+- Toluca 1970 
+- Toros Neza
 
- Directorio de D:\OneDriveJGM\OneDrive\Dev\EscudosSVG\Noruega
+**Paises Bajos Eredivisie**
+- ADO Den Haag
+- Ajax de Ámsterdam
+- Az Alkmaar 
+- Fc Emmen
+- Fc Groningen
+- FC Twente
+- Feyenoord de Róterdam
+- Football Club Utrecht
+- Fortuna Sittard
+- Heracles Almelo
+- PEC Zwolle
+- PSV Eindhoven
+- RKC Waalwijk
+- SBV Vitesse
+- SC Heerenveen
+- Sparta Rotterdam
+- VVV-Venlo
+- Willem Ii
 
-02/12/2020  14:57    
-02/12/2020  14:57    
-Ardala
-Zmvv Zeerobben
-               2 archivos         33.780 bytes
+**Paises Bajos Otras Categorias**
+- Achilles 1894 Assen
+- Achilles 29
+- Ado 20 2
+- Agovv Apeldoorn
+- Almere City Fc
+- Almere City Fc2
+- Amsterdamsche Fc
+- Avw Westervoort 66
+- Be Quick 1887
+- Be Quick 28
+- Bv Veendam 
+- Bvv Barendrecht
+- Csv Apeldoorn
+- Cvv De Jodan Boys
+- Cvv Oranje Nassau
+- Cvv Sparta Enschede
+- Cvv Vev 67
+- De Graafschap
+- De Treffers Groesbeek
+- De Zouaven
+- Den Bosch 
+- Deto Twenterand
+- De_graafschap
+- Dordrecht 
+- Dos Kampen
+- Ehc Hoensbroek
+- Emmen Fc 
+- Excelsioe
+- Excelsior 
+- Excelsior Fc Essen
+- Excelsior Maassluis
+- Fc Binnenmaas
+- Fc Breukelen
+- Fc Chabab
+- Fc Chang Aalborg
+- Fc Den Bosch
+- Fc Dordrecht
+- Fc Eindhoven
+- Fc Hilversum
+- Fc Horst Ermelo
+- Fc Lienden
+- Fc Lisse
+- Fc Omniworld
+- Fc Oss
+- Fc Rijnvogels
+- Fc S Gravenzande
+- Fc Twente 
+- Fc Uitgeest
+- Fc Volendam
+- Flevo Boys
+- Go Ahead Eagles
+- Go Ahead Kampen
+- Gvvv Veenendaal
+- Haaksbergse Sport Club 1921
+- Harkemase Boys
+- Hbs Craeyenhout
+- Hden Haag Fc 
+- Helmond Sport
+- Helmond Sport2
+- Helmond Sport3
+- Heracles 
+- Hhc Hardenberg
+- Hhc Hardenberg2
+- Hollandia Vv
+- Hsv Hoek
+- Htm Arka
+- Hvc Heesch
+- Ifc Ambacht
+- Jvc Cuijk
+- Koninklijke Hfc
+- Kozakken Boys
+- Maastricht Vv
+- Maastricht Vv2
+- Maastricht Vv4
+- Nac Breda
+- Nac Breda2
+- Nac Breda3
+- Nac Fc 
+- Nec Nijmegen
+- Nec_nijmegen
+- Odin 59 2
+- Odin 59
+- Ons Boso Sneek
+- Quick Boys Katwijk
+- Rijnburgse Boys
+- Rkav Volendam
+- Rkc Waalwijk
+- Rksv Groenester Heerlerheide
+- Rksv Volkel
+- Rkvv Evv Echt
+- Roda Jc
+- Rohda Raalte
+- Rohda Raalte2
+- Sbv Excelsior
+- Sc Cambuur
+- Sc Cambuur2
+- Sc Cambuur3
+- Sc Everstein
+- Sc Genemuiden
+- Sc Heerenveen
+- Sc Rouveen
+- Sc Susteren
+- Sc Telstar
+- Sc Telstar2
+- Scheveningen Vv
+- Sdc Putten
+- Sdv Barneveld
+- Sportlust 46
+- Sv Arc
+- Sv Argon
+- Sv Babberich
+- Sv Excelsior 31
+- Sv Huizen
+- Sv Juliana 31
+- Sv Langbroek2
+- Sv Marken
+- Sv Someren
+- Sv Spakenburg
+- Sv Zwaluwen Wierden
+- Tielse Eendracht Combinatie
+- Twente 
+- Una Zeelst
+- Volharding Olympia Combinatie
+- Voorwaarts Utile Dulci Combinatie
+- Vv Advendo 57
+- Vv Baronie
+- Vv Bcv
+- Vv Bennekom
+- Vv Berkum
+- Vv De Meern
+- Vv Dijkse Boys
+- Vv Dovo
+- Vv Gemert
+- Vv Germania Groesbeek
+- Vv Haaglandia
+- Vv Ijsselmeervogels
+- Vv Katwijk
+- Vv Kloetinge
+- Vv Lrc Leerdam
+- Vv Montfoort
+- Vv Noordwijk
+- Vv Nsvv
+- Vv Olde Veste
+- Vv Osv Oud Beijerland
+- Vv Owios
+- Vv Sho
+- Vv Smitshoek
+- Vv Sneek Wit Zwart
+- Vv Sparta Nijkerk
+- Vv Staphorst
+- Vv Tolbert
+- Vv Tolbert2
+- Vv Uno Hoofddorp
+- Vv Winsum
+- Vv Zwart Wit 63 2
+- Vvz 49 Soest
+- Witte Ster Lovrienden Lotenhulle
+- Wke Emmen
+- Zelezarny Trinec
 
-Paises Bajos\Eredivisie
-ADO Den Haag
-Ajax de Ámsterdam
-Az Alkmaar 
-Fc Emmen
-Fc Groningen
-FC Twente
-Feyenoord de Róterdam
-Football Club Utrecht
-Fortuna Sittard
-Heracles Almelo
-PEC Zwolle
-PSV Eindhoven
-RKC Waalwijk
-SBV Vitesse
-SC Heerenveen
-Sparta Rotterdam
-VVV-Venlo
-Willem Ii
+**Polonia Ekstraklasa**
+- Gks Piast
+- Jagiellonia Bialystok
+- KS Cracovia
+- KS Górnik Zabrze
+- Ks Warta Poznan2
+- Lech Poznan
+- Lechia Gdansk
+- Mks Pogon Szczecin
+- Mks Zaglebie Lubin
+- Piast Gliwice
+- Podbeskidzie Bielsko-Biala
+- Raków Czestochowa
+- Stal Mielec
+- Wisla Plock Ssa
+- Wisla Kraków
+- Wks Slask Wroclaw
 
-Paises Bajos\Otras Categorias
-Achilles 1894 Assen
-Achilles 29
-Ado 20 2
-Agovv Apeldoorn
-Almere City Fc
-Almere City Fc2
-Amsterdamsche Fc
-Avw Westervoort 66
-Be Quick 1887
-Be Quick 28
-Bv Veendam 
-Bvv Barendrecht
-Csv Apeldoorn
-Cvv De Jodan Boys
-Cvv Oranje Nassau
-Cvv Sparta Enschede
-Cvv Vev 67
-De Graafschap
-De Treffers Groesbeek
-De Zouaven
-Den Bosch 
-Deto Twenterand
-De_graafschap
-Dordrecht 
-Dos Kampen
-Ehc Hoensbroek
-Emmen Fc 
-Excelsioe
-Excelsior 
-Excelsior Fc Essen
-Excelsior Maassluis
-Fc Binnenmaas
-Fc Breukelen
-Fc Chabab
-Fc Chang Aalborg
-Fc Den Bosch
-Fc Dordrecht
-Fc Eindhoven
-Fc Hilversum
-Fc Horst Ermelo
-Fc Lienden
-Fc Lisse
-Fc Omniworld
-Fc Oss
-Fc Rijnvogels
-Fc S Gravenzande
-Fc Twente 
-Fc Uitgeest
-Fc Volendam
-Flevo Boys
-Go Ahead Eagles
-Go Ahead Kampen
-Gvvv Veenendaal
-Haaksbergse Sport Club 1921
-Harkemase Boys
-Hbs Craeyenhout
-Hden Haag Fc 
-Helmond Sport
-Helmond Sport2
-Helmond Sport3
-Heracles 
-Hhc Hardenberg
-Hhc Hardenberg2
-Hollandia Vv
-Hsv Hoek
-Htm Arka
-Hvc Heesch
-Ifc Ambacht
-Jvc Cuijk
-Koninklijke Hfc
-Kozakken Boys
-Maastricht Vv
-Maastricht Vv2
-Maastricht Vv4
-Nac Breda
-Nac Breda2
-Nac Breda3
-Nac Fc 
-Nec Nijmegen
-Nec_nijmegen
-Odin 59 2
-Odin 59
-Ons Boso Sneek
-Quick Boys Katwijk
-Rijnburgse Boys
-Rkav Volendam
-Rkc Waalwijk
-Rksv Groenester Heerlerheide
-Rksv Volkel
-Rkvv Evv Echt
-Roda Jc
-Rohda Raalte
-Rohda Raalte2
-Sbv Excelsior
-Sc Cambuur
-Sc Cambuur2
-Sc Cambuur3
-Sc Everstein
-Sc Genemuiden
-Sc Heerenveen
-Sc Rouveen
-Sc Susteren
-Sc Telstar
-Sc Telstar2
-Scheveningen Vv
-Sdc Putten
-Sdv Barneveld
-Sportlust 46
-Sv Arc
-Sv Argon
-Sv Babberich
-Sv Excelsior 31
-Sv Huizen
-Sv Juliana 31
-Sv Langbroek2
-Sv Marken
-Sv Someren
-Sv Spakenburg
-Sv Zwaluwen Wierden
-Tielse Eendracht Combinatie
-Twente 
-Una Zeelst
-Volharding Olympia Combinatie
-Voorwaarts Utile Dulci Combinatie
-Vv Advendo 57
-Vv Baronie
-Vv Bcv
-Vv Bennekom
-Vv Berkum
-Vv De Meern
-Vv Dijkse Boys
-Vv Dovo
-Vv Gemert
-Vv Germania Groesbeek
-Vv Haaglandia
-Vv Ijsselmeervogels
-Vv Katwijk
-Vv Kloetinge
-Vv Lrc Leerdam
-Vv Montfoort
-Vv Noordwijk
-Vv Nsvv
-Vv Olde Veste
-Vv Osv Oud Beijerland
-Vv Owios
-Vv Sho
-Vv Smitshoek
-Vv Sneek Wit Zwart
-Vv Sparta Nijkerk
-Vv Staphorst
-Vv Tolbert
-Vv Tolbert2
-Vv Uno Hoofddorp
-Vv Winsum
-Vv Zwart Wit 63 2
-Vvz 49 Soest
-Witte Ster Lovrienden Lotenhulle
-Wke Emmen
-Zelezarny Trinec
-
-Polonia\Ekstraklasa
-Gks Piast
-Jagiellonia Bialystok
-KS Cracovia
-KS Górnik Zabrze
-Ks Warta Poznan2
-Lech Poznan
-Lechia Gdansk
-Mks Pogon Szczecin
-Mks Zaglebie Lubin
-Piast Gliwice
-Podbeskidzie Bielsko-Biala
-Raków Czestochowa
-Stal Mielec
-Wisla Plock Ssa
-Wisla Kraków
-Wks Slask Wroclaw
-
-Polonia\Otras Categorias
-Aspn Miedz Legnica
-Aspn Roztocze Szczebrzeszyn
-Belchatov
-Blyskawica Lubinicko
-Cwks Bumar Piast
-Dabski Ks
-Dolcan Ssa
-Gkp Gorzow Wielkopolski
-Gkp Gorzow Wielkopolski2
-Gks Belchatow
-Gks Gieksa Katowice
-Gks Gornik
-Gks Odra
-Gks Olimpia Grudziadz
-Gks Olimpia Poznan
-Gks Rega Merida Trzebiatow
-Gks Tychy
-Gks Victoria Skarszew Zelazkow
-Glks Echo Zawada
-Glks Spartakus Szarowola
-Gornik Leczna Sa
-Groclin Dyskobolia Ssa
-Gts Wisla2
-Gts Wisla3
-Jks Jarota Jarocin
-K Langemark Fc
-Kks Lech
-Kks Lech4
-Kolporter Korona Ssa3
-Kp Calisia Kalisz
-Kp Chemik Police
-Kp Start Torun
-Kp Unia Raciborz
-Kpn 
-Ks Amica
-Ks Chemik Police
-Ks Czarni Jaworze
-Ks Drweca Nowe Miasto Lubawskie
-Ks Energetyk Row Rybnik
-Ks Gornik Polkowice
-Ks Groclin Dyskobolia
-Ks Juwenia Boczow
-Ks Konstancin
-Ks Miedz Legnica
-Ks Olimpia Lewin Brzeski
-Ks Pelikan Lowicz
-Ks Piast
-Ks Plomien Jerzmanowice
-Ks Polonia
-Ks Przeboj Wolbrom
-Ks Radunia Stezyca
-Ks Rozwoj Katowice
-Ks Ruch Wysokie Mazowieckie
-Ks Termalica Bruk Bet Nieciecza
-Ks Unia Bardo
-Ks Unia Tulowice
-Ks Widzew Lodz Sa
-Ks Wlokniarz Pro Agre Kietrz
-Ks Wlokniarz Pro Agre Kietrz2
-Ks Zamek Kurzetnik
-Ks Zamlynie Radom
-Ksgarbarnia
-Kshutnikkrakow
-Ksostrowiec
-Ksp Polonia
-Ksruchchorzov
-Ksruchchorzow
-Kss Korona
-Kswartapoznan
-Lechia Polonia Ssa
-Lechpoznan
-Lkp Motor Lublin
-Lks Baltyk Miedzywodzie
-Lks Cicha Woda Tyniec Legnicki
-Lks Grapa Trzebinia
-Lks Huragan Kocikowa
-Lks Jednosc32 Przyszowice
-Lks Lodz Ssa
-Lks Lodz Ssa2
-Lks Lodz Ssa3
-Lks Ogrol Sielinko
-Lks Orleta Lukow
-Lks Piasek Potworow
-Lks Plon Skoroszyce
-Lks Pogon Lebork
-Lks Sokol Adamow
-Lks Swit Baranowo
-Lks Tecza Ojrzen
-Lks Tur Milejow
-Lks Ubiad
-Lks Victoria Cisek
-Lks Vir Dorohucza
-Lks Zamek Skotniki
-Lks Zjednoczeni Lubrza
-Lzs Burza Greboszow
-Lzs Parkowa Kantorowice
-Lzs Wojcice
-Mkp Pogon Siedlce
-Mkp Pogon Siedlce2
-Mks Cargovia Kargowa
-Mks Chemik Police
-Mks Chojniczanka
-Mks Dolcan Zabki
-Mks Flota Swinoujscie
-Mks Gks Jastrzebie
-Mks Kluczbork
-Mks Korona
-Mks Nielba Wagrowiec
-Mks Odra Sa
-Mks Piast Choszczno
-Mks Sandecja Nowy Sacz
-Mks Sf Korona Nida Gips2
-Mks Sokol Niemodlin
-Mks Start Radziejow
-Mks Start Radziejow2
-Mks Swit Nowy Dwor
-Mks Znicz Pruszkow
-Mksodra
-Mlks Rega Trzebiatow
-Mlks Wlokniarz Okonek
-Mzks Chrobry Gw
-Mzks Orleta Aleksandrow Kujawski
-Okocimski Ks
-Oks Odra Opole
-Oks Stomil Olsztyn
-Osp Lechia3
-Plks Pewel Mala
-Prokom Arka Gdynia Ssa
-Rks Mirkow
-Rks Mirkow2
-Rks Stoczniowiec Gdansk
-Ruch Ssa
-Sks Wigry Suwalki
-Sp Zawisza Bydgoszcz
-Ssa Gornik3
-Tks Rega
-Ts Olimpia Bolplast Poznan
-Ts Ruch Bojanowo
-Ts Sokol Aleksandrow Lodzki
-Ts Wisla
-Wks Zawisza Bydgoszcz
-Zaglebie Sosnowiec
-Zks Stal Stalowa Wola
-Zks Stilon Gorzow Wielkopolski
-Zks Wisla Plock
-Zkspetrochemia
-Zs Unia
-
-Portugal\Otras Categorias
-Academica
-Amadora
-Beiramar
-Cesarense 
-Chaves 
-Diabos Vermelhos
-Estoril 
-Estrela Amadora
-Fcporto
-Leira
-Nacional
-Naval
-Vitoria Fc  
-
-Portugal\Primeira Liga
-Belenenses
-Benfica
-Boavista
-Braga
-C.D. Santa Clara
-C.D. Tondela
-C.S. Marítimo
-Desportivo Des Aves
-FC Famalicão
-Futebol Clube Paços de Ferreira
-Fútbol Club Oporto
-Gil Vicente F.C.
-Moreirense F.C.
-Portimonense S.C.
-Rio Ave F.C.
-Sporting CP
-Vitória Setúbal
-Vitória Sport Clube
+**Polonia Otras Categorias**
+- Aspn Miedz Legnica
+- Aspn Roztocze Szczebrzeszyn
+- Belchatov
+- Blyskawica Lubinicko
+- Cwks Bumar Piast
+- Dabski Ks
+- Dolcan Ssa
+- Gkp Gorzow Wielkopolski
+- Gkp Gorzow Wielkopolski2
+- Gks Belchatow
+- Gks Gieksa Katowice
+- Gks Gornik
+- Gks Odra
+- Gks Olimpia Grudziadz
+- Gks Olimpia Poznan
+- Gks Rega Merida Trzebiatow
+- Gks Tychy
+- Gks Victoria Skarszew Zelazkow
+- Glks Echo Zawada
+- Glks Spartakus Szarowola
+- Gornik Leczna Sa
+- Groclin Dyskobolia Ssa
+- Gts Wisla2
+- Gts Wisla3
+- Jks Jarota Jarocin
+- K Langemark Fc
+- Kks Lech
+- Kks Lech4
+- Kolporter Korona Ssa3
+- Kp Calisia Kalisz
+- Kp Chemik Police
+- Kp Start Torun
+- Kp Unia Raciborz
+- Kpn 
+- Ks Amica
+- Ks Chemik Police
+- Ks Czarni Jaworze
+- Ks Drweca Nowe Miasto Lubawskie
+- Ks Energetyk Row Rybnik
+- Ks Gornik Polkowice
+- Ks Groclin Dyskobolia
+- Ks Juwenia Boczow
+- Ks Konstancin
+- Ks Miedz Legnica
+- Ks Olimpia Lewin Brzeski
+- Ks Pelikan Lowicz
+- Ks Piast
+- Ks Plomien Jerzmanowice
+- Ks Polonia
+- Ks Przeboj Wolbrom
+- Ks Radunia Stezyca
+- Ks Rozwoj Katowice
+- Ks Ruch Wysokie Mazowieckie
+- Ks Termalica Bruk Bet Nieciecza
+- Ks Unia Bardo
+- Ks Unia Tulowice
+- Ks Widzew Lodz Sa
+- Ks Wlokniarz Pro Agre Kietrz
+- Ks Wlokniarz Pro Agre Kietrz2
+- Ks Zamek Kurzetnik
+- Ks Zamlynie Radom
+- Ksgarbarnia
+- Kshutnikkrakow
+- Ksostrowiec
+- Ksp Polonia
+- Ksruchchorzov
+- Ksruchchorzow
+- Kss Korona
+- Kswartapoznan
+- Lechia Polonia Ssa
+- Lechpoznan
+- Lkp Motor Lublin
+- Lks Baltyk Miedzywodzie
+- Lks Cicha Woda Tyniec Legnicki
+- Lks Grapa Trzebinia
+- Lks Huragan Kocikowa
+- Lks Jednosc32 Przyszowice
+- Lks Lodz Ssa
+- Lks Lodz Ssa2
+- Lks Lodz Ssa3
+- Lks Ogrol Sielinko
+- Lks Orleta Lukow
+- Lks Piasek Potworow
+- Lks Plon Skoroszyce
+- Lks Pogon Lebork
+- Lks Sokol Adamow
+- Lks Swit Baranowo
+- Lks Tecza Ojrzen
+- Lks Tur Milejow
+- Lks Ubiad
+- Lks Victoria Cisek
+- Lks Vir Dorohucza
+- Lks Zamek Skotniki
+- Lks Zjednoczeni Lubrza
+- Lzs Burza Greboszow
+- Lzs Parkowa Kantorowice
+- Lzs Wojcice
+- Mkp Pogon Siedlce
+- Mkp Pogon Siedlce2
+- Mks Cargovia Kargowa
+- Mks Chemik Police
+- Mks Chojniczanka
+- Mks Dolcan Zabki
+- Mks Flota Swinoujscie
+- Mks Gks Jastrzebie
+- Mks Kluczbork
+- Mks Korona
+- Mks Nielba Wagrowiec
+- Mks Odra Sa
+- Mks Piast Choszczno
+- Mks Sandecja Nowy Sacz
+- Mks Sf Korona Nida Gips2
+- Mks Sokol Niemodlin
+- Mks Start Radziejow
+- Mks Start Radziejow2
+- Mks Swit Nowy Dwor
+- Mks Znicz Pruszkow
+- Mksodra
+- Mlks Rega Trzebiatow
+- Mlks Wlokniarz Okonek
+- Mzks Chrobry Gw
+- Mzks Orleta Aleksandrow Kujawski
+- Okocimski Ks
+- Oks Odra Opole
+- Oks Stomil Olsztyn
+- Osp Lechia3
+- Plks Pewel Mala
+- Prokom Arka Gdynia Ssa
+- Rks Mirkow
+- Rks Mirkow2
+- Rks Stoczniowiec Gdansk
+- Ruch Ssa
+- Sks Wigry Suwalki
+- Sp Zawisza Bydgoszcz
+- Ssa Gornik3
+- Tks Rega
+- Ts Olimpia Bolplast Poznan
+- Ts Ruch Bojanowo
+- Ts Sokol Aleksandrow Lodzki
+- Ts Wisla
+- Wks Zawisza Bydgoszcz
+- Zaglebie Sosnowiec
+- Zks Stal Stalowa Wola
+- Zks Stilon Gorzow Wielkopolski
+- Zks Wisla Plock
+- Zkspetrochemia
+- Zs Unia
 
 
-Republica Checa
-Afk Atlantic 
-Banik Most
-Banik Sokolov
-Baumit Jablonec Soccer
-Bohemians 1905 Soccer
-Bohemians Prague
-Bohemians Praha 
-Budejovice Czech
-Ceska Lipa 
-Ceske Budejovice Dynamo
-Chmel Blsany 
-Fc Hradec
-Fc Kaucuk Opava
-Fc Usti
-Fc Vitkovice
-Frydek Mystek 
-Hfk Prerov 
-Hradec Karlove 
-Ks Hutnik Huta Czechy
-Mfk Karvina Soccer
-Mfk Karvina
-Olomouc
-Sc Xaverov
-Sfc Opava
-Siad Most
-Sk Hanacka Slavia Kromeriz
-Sk Lerk 
-Sk Rpostejov 
-Slovacko Fc
-Svit Zlin
-Synot Stare Mesto
-Tescoma
-Viktoria Plzen 
-Viktoria Zizkov 
-Viktoria Zizkov
-Vitkovice Fc
+
+**Portugal Primeira Liga**
+- Belenenses
+- Benfica
+- Boavista
+- Braga
+- C.D. Santa Clara
+- C.D. Tondela
+- C.S. Marítimo
+- Desportivo Des Aves
+- FC Famalicão
+- Futebol Clube Paços de Ferreira
+- Fútbol Club Oporto
+- Gil Vicente F.C.
+- Moreirense F.C.
+- Portimonense S.C.
+- Rio Ave F.C.
+- Sporting CP
+- Vitória Setúbal
+- Vitória Sport Clube
+
+**Portugal Otras Categorias**
+- Academica
+- Amadora
+- Beiramar
+- Cesarense 
+- Chaves 
+- Diabos Vermelhos
+- Estoril 
+- Estrela Amadora
+- Fcporto
+- Leira
+- Nacional
+- Naval
+- Vitoria Fc  
+
+**Republica Checa Fortuna Liga**
+- AC Sparta Prague.svg
+- Bohemians Prague.svg
+- FC Ban¡k Ostrava.svg
+- FC Fastav Zl¡n.svg
+- FC Slov cko.svg
+- FK Jablonec.svg
+- FK Mlad  Boleslav.svg
+- FK Pr¡bram.svg
+- FK Teplice.svg
+- Football Club Slovan Liberec.svg
+- Football Club Viktoria Pilsen.svg
+- MFK Karvin .svg
+- SFC Opava.svg
+- SK Dynamo Cesk‚ Budejovice.svg
+- SK Sigma Olomouc.svg
+- Sportovn¡ Klub Slavia Praga.svg
+
+
+**Republica Checa Otras Categorias**
+- Afk Atlantic.svg
+- Banik Most.svg
+- Banik Sokolov.svg
+- Budejovice Czech.svg
+- Ceska Lipa.svg
+- Chmel Blsany.svg
+- Fc Hradec.svg
+- Fc Kaucuk Opava.svg
+- Fc Usti.svg
+- Fc Vitkovice.svg
+- Frydek Mystek.svg
+- Hfk Prerov.svg
+- Hradec Karlove.svg
+- Ks Hutnik Huta Czechy.svg
+- Olomouc.svg
+- Sc Xaverov.svg
+- Siad Most.svg
+- Sk Hanacka Slavia Kromeriz.svg
+- Sk Lerk.svg
+- Sk Rpostejov.svg
+- Slovacko Fc.svg
+- Svit Zlin.svg
+- Synot Stare Mesto.svg
+- Tescoma.svg
+- Viktoria Zizkov.svg
+- Vitkovice Fc.svg
 
 
 **Rusia Liga Premier**
@@ -2024,39 +2025,57 @@ Vitkovice Fc
 - Zeytinburnu  
 - Zhemch Fc
 
-Serbia
-Aikbacka
-Aks Victoria Slomka
-Banat Zrenjanin 
-Becej
-Borac Cacak 
-Buducnost
-Crvena Zvezda Fc Type
-Crvenka
-Cukaricki Stankom 
-Cukaricki
-Hajduk Beograd
-Hajdukkula
-Indjija Type
-Kom
-Metalac Soccer
-Metallurg Fk
-Metalurg Soccer 
-Mladost Type
-Obilic 
-Ofk Beograd Type
-Ofk Mladenovac
-Ofkbeograd
-Partizan Fc Type
-Partizan
-Proleter Zrenjanin 
-Rad
-Radnicki Lragujevac 
-Radnicki Nis 
-Rudarpljevlja
-Spartak Subotica 
-Spartak_subotica_
-Vojvodina 
+**Serbia First League**
+- FK Borac Cacak
+- FK Buducnost Dobanovci
+- FK Dinamo Vranje
+- FK Dubocica
+- FK Graficar Beograd
+- FK IMT Belgrade
+- FK Jagodina
+- FK Kabel
+- FK Kolubara
+- FK Loznica
+- FK Radnicki 1923
+- FK Radnicki Pirot
+- FK Radnicki Sremska Mitrovica
+- FK Sloga Kraljevo
+- FK Trayal Krusevac
+- FK Zemun
+- FK Zeleznicar Pancevo
+- OFK Zarkovo
+
+**Serbia Otras Categorias**
+- Aikbacka
+- Aks Victoria Slomka
+- Banat Zrenjanin
+- Becej
+- Buducnost
+- Crvena Zvezda Fc Type
+- Crvenka
+- Cukaricki Stankom
+- Cukaricki
+- Hajduk Beograd
+- Hajdukkula
+- Indjija Type
+- Kom
+- Metalac Soccer
+- Metallurg Fk
+- Metalurg Soccer
+- Mladost Type
+- Obilic
+- Ofk Beograd Type
+- Ofk Mladenovac
+- Ofkbeograd
+- Partizan
+- Proleter Zrenjanin
+- Rad
+- Radnicki Lragujevac
+- Radnicki Nis
+- Rudarpljevlja
+- Spartak Subotica
+- Vojvodina
+
 
 Suecia
 Ahlafors If
@@ -2148,61 +2167,65 @@ Varmbols Fc
 Vasteras Sk
 Vastra Frolunda If
 
-Suiza  
-Ac Bellinzona
-Bsc Old Boys
-Cf Dietikon
-Es Malley
-Etoile Carouge 
-Etoile Carouge Fc
-Fc Baulmes
-Fc Biel Bienne
-Fc Blue Stars
-Fc Chiasso
-Fc Concordia Basel2
-Fc Concordia Basel3
-Fc Dubendorf
-Fc Franches Montagnes
-Fc Gossau
-Fc Grenchen2
-Fc La Chaux De Fonds
-Fc Locarno
-Fc Lugano
-Fc Lugano2
-Fc Rapperswil Jona
-Fc Red Star Zurich
-Fc Schaffhausen
-Fc Stade Nyonnais
-Fc Stade Nyonnais2
-Fc Ugs
-Fc Unterstrass
-Fc Vaduz
-Fc Vaduz2
-Fc Vaduz3
-Fc Vaduz4
-Fc Wil
-Fc Winterthur
-Fc Wohlen
-Grasshoppers 
-Neuchatel Xamax Fcs
-Neuchatel Xamax
-Neuchatel Xamax2
-Neuchatel Xamax3
-Sc Cham
-Sc Kriens
-Sc Kriens2
-Sc Yf Juventus
-Sc Zofingen
-Sc Zofingen2
-Servette Fc
-Sr Delemont
-St Gallen 
-Super Ettan 
-Sv Hongg
-Sv Muttenz
-Us Terre Sainte
-Young Boys 
-Yverdon Sport
+**Suiza Swiss Super League**
+- Berner Sport Club Young Boys
+- FC Lugano
+- FC Luzern
+- FC Zrich
+- Football Club Sion
+- Fussballclub Basilea
+- Fussballclub Thun
+- Neuchƒtel Xamax FC
+- Servette Football Club GenŠve
+- St Gallen
+
+**Suiza Otras Categorias**
+- Ac Bellinzona
+- Bsc Old Boys
+- Cf Dietikon
+- Es Malley
+- Etoile Carouge Fc
+- Etoile Carouge
+- Fc Baulmes
+- Fc Biel Bienne
+- Fc Blue Stars
+- Fc Chiasso
+- Fc Concordia Basel2
+- Fc Concordia Basel3
+- Fc Dubendorf
+- Fc Franches Montagnes
+- Fc Gossau
+- Fc Grenchen2
+- Fc La Chaux De Fonds
+- Fc Locarno
+- Fc Lugano
+- Fc Rapperswil Jona
+- Fc Red Star Zurich
+- Fc Schaffhausen
+- Fc Stade Nyonnais
+- Fc Ugs
+- Fc Unterstrass
+- Fc Vaduz
+- Fc Vaduz2
+- Fc Vaduz3
+- Fc Vaduz4
+- Fc Wil
+- Fc Winterthur
+- Fc Wohlen
+- Grasshoppers
+- Sc Cham
+- Sc Kriens
+- Sc Kriens2
+- Sc Yf Juventus
+- Sc Zofingen
+- Sc Zofingen2
+- Sr Delemont
+- Super Ettan
+- Sv Hongg
+- Sv Muttenz
+- Us Terre Sainte
+- Yverdon Sport
+
 
 **Turquia Super Lig**
 - Alanyaspor
