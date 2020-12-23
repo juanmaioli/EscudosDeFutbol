@@ -1019,153 +1019,153 @@ Escudos y Logos de Equipos de Futbol del mundo.
 - Sporting Kansas City
 - Vancouver Whitecaps FC
 
-Espana\Otras Categorias
-Albacete Balompie
-Alicante Cf2
-Almeria 
-Athleticb
-Atleticom
-Burgos Cf
-Catarroja Cf
-Caudal Deportivo Mieres
-Cd Castellon
-Cd Lugo2
-Cd Numancia De Soria
-Cd Tenerife
-Cd Toledo
-Cd Tudelano
-Ce Sabadell Fc
-Cf Badalona
-Cf Orihuela
-Club Gimnastic Tarragona
-Compostela 
-Cordoba Cf
-Cordoba Cf2
-Coruxo Fc
-Costa Calida Fc
-Deportivo
-Empoli
-Escudo Udlp
-Espanyol
-Estrella Cf Sardina Del Sur
-Fc Cartagena
-Gimnastic
-Girona Fc
-Hercules Alicante
-Hercules Cf2
-Huracan Valencia Cf
-Lledia 
-Logrones 
-Mallorca
-Merida Cf  2010
-Merida Type
-Murcia Fc
-Oviedo 
-Racingsantander
-Rayo 
-Rc Recreativo Huelva
-Real Jaen Cf
-Real Murcia Cf
-Real Oviedo
-Real Racing Santander
-Real Sporting Gijon
-Recreativohuelva
-Sd Noja
-Sd Ponferradina
-Ud Las Palmas
-Ue Olot
-Zaragoza
+**Espana Primera División de España**
+- Athletic Club(Bilbao)
+- Club Atlético de Madrid
+- Club Atlético Osasuna
+- Cádiz Club de Fútbol
+- Deportivo Alavés
+- Elche Club de Fútbol
+- Elche Ilicitano Cf
+- Fútbol Club Barcelona
+- Getafe
+- Granada Club de Fútbol
+- Levante
+- Real Betis Balompié
+- Real Club Celta de Vigo
+- Real madrid
+- Real Sociedad de Fútbol
+- Real Valladolid Club de Fútbol
+- Sevilla Fútbol Club
+- Sociedad Deportiva Eibar
+- Sociedad Deportiva Huesca
+- Valencia
+- Villareal
 
-Espana\Primera División de España
-Athletic Club(Bilbao)
-Club Atlético de Madrid
-Club Atlético Osasuna
-Cádiz Club de Fútbol
-Deportivo Alavés
-Elche Club de Fútbol
-Elche Ilicitano Cf
-Fútbol Club Barcelona
-Getafe
-Granada Club de Fútbol
-Levante
-Real Betis Balompié
-Real Club Celta de Vigo
-Real madrid
-Real Sociedad de Fútbol
-Real Valladolid Club de Fútbol
-Sevilla Fútbol Club
-Sociedad Deportiva Eibar
-Sociedad Deportiva Huesca
-Valencia
-Villareal
+**España Otras Categorias**
+- Albacete Balompie
+- Alicante Cf2
+- Almeria 
+- Athleticb
+- Atleticom
+- Burgos Cf
+- Catarroja Cf
+- Caudal Deportivo Mieres
+- Cd Castellon
+- Cd Lugo2
+- Cd Numancia De Soria
+- Cd Tenerife
+- Cd Toledo
+- Cd Tudelano
+- Ce Sabadell Fc
+- Cf Badalona
+- Cf Orihuela
+- Club Gimnastic Tarragona
+- Compostela 
+- Cordoba Cf
+- Cordoba Cf2
+- Coruxo Fc
+- Costa Calida Fc
+- Deportivo
+- Empoli
+- Escudo Udlp
+- Espanyol
+- Estrella Cf Sardina Del Sur
+- Fc Cartagena
+- Gimnastic
+- Girona Fc
+- Hercules Alicante
+- Hercules Cf2
+- Huracan Valencia Cf
+- Lledia 
+- Logrones 
+- Mallorca
+- Merida Cf  2010
+- Merida Type
+- Murcia Fc
+- Oviedo 
+- Racingsantander
+- Rayo 
+- Rc Recreativo Huelva
+- Real Jaen Cf
+- Real Murcia Cf
+- Real Oviedo
+- Real Racing Santander
+- Real Sporting Gijon
+- Recreativohuelva
+- Sd Noja
+- Sd Ponferradina
+- Ud Las Palmas
+- Ue Olot
+- Zaragoza
 
-Francia\Ligue 1
-Angers Sporting club De l'Ouest
-Association sportive de Monaco football club
-Association Sportive de Saint-Étienne Loire
-Dijon Football Côte-d'Or
-Football Club de Lorient
-Football Club de Metz
-Football Club de Nantes
-Football Club des Girondins de Bordeaux
-LOSC Lille
-Montpellier Hérault Sport Club
-Nîmes Olympique
-Olympique De Marseille
-Olympique Gymnaste Club de Nice
-Olympique Lyonnais
-Paris Saint-Germain Football Club
-Racing Club de Lens
-Racing Club de Strasbourg Alsace
-Stade Brestois 29 
-Stade de Reims
-Stade Rennais Football Club (SRFC)
+**Francia Ligue 1**
+- Angers Sporting club De l'Ouest
+- Association sportive de Monaco football club
+- Association Sportive de Saint-Étienne Loire
+- Dijon Football Côte-d'Or
+- Football Club de Lorient
+- Football Club de Metz
+- Football Club de Nantes
+- Football Club des Girondins de Bordeaux
+- LOSC Lille
+- Montpellier Hérault Sport Club
+- Nîmes Olympique
+- Olympique De Marseille
+- Olympique Gymnaste Club de Nice
+- Olympique Lyonnais
+- Paris Saint-Germain Football Club
+- Racing Club de Lens
+- Racing Club de Strasbourg Alsace
+- Stade Brestois 29 
+- Stade de Reims
+- Stade Rennais Football Club (SRFC)
 
-Francia\Otras Categorias
-Ajaccio
-Amiens
-Annecy Football Club
-Caen Soccer
-Cannes Soccer
-Chamois Niortais Fc
-Chateauroux
-Clermont
-Droit Au But Marseille
-Eaguingamp
-Es Wasquelah Lille
-Fc Istres Ouest Provence
-Fc Red Star Saint Ouen
-Fc Toulouse
-Fc Troyes
-Fcistres
-Fclibourne
-Fcsete
-Football Club De Mulhouse
-Football Club Lorient
-Frc Strasbourg
-Grenoble
-Gueugnon
-Guingamp Soccer
-Lemans Soccer
-Lemans
-Lille Metropole
-Lille
-Lorient Soccer
-Louhans Cuiseaux
-Nancy Soccer
-Ogcn Cote Dazur
-Rus Givry
-Sc Menz
-Sc Petit Waret
-Scbastia
-Sedan
-Smcaen
-Sochaux
-Stade Rennais Fc
-Stadebrestois
-Toursfc
-Uscreteil
-Usv Eschen Mauren
+**Francia Otras Categorias**
+- Ajaccio
+- Amiens
+- Annecy Football Club
+- Caen Soccer
+- Cannes Soccer
+- Chamois Niortais Fc
+- Chateauroux
+- Clermont
+- Droit Au But Marseille
+- Eaguingamp
+- Es Wasquelah Lille
+- Fc Istres Ouest Provence
+- Fc Red Star Saint Ouen
+- Fc Toulouse
+- Fc Troyes
+- Fcistres
+- Fclibourne
+- Fcsete
+- Football Club De Mulhouse
+- Football Club Lorient
+- Frc Strasbourg
+- Grenoble
+- Gueugnon
+- Guingamp Soccer
+- Lemans Soccer
+- Lemans
+- Lille Metropole
+- Lille
+- Lorient Soccer
+- Louhans Cuiseaux
+- Nancy Soccer
+- Ogcn Cote Dazur
+- Rus Givry
+- Sc Menz
+- Sc Petit Waret
+- Scbastia
+- Sedan
+- Smcaen
+- Sochaux
+- Stade Rennais Fc
+- Stadebrestois
+- Toursfc
+- Uscreteil
+- Usv Eschen Mauren
 
 Grecia\Otras Categorias
 Aigalio
