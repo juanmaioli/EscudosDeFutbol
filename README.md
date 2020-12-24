@@ -2,39 +2,39 @@
 Escudos y Logos de Equipos de Futbol del mundo.
 
 **Escudos y Logos de Clubes de Fútbol**
-### Alemania
-### Argentina
-### Australia
-### Austria
-### Belgica
-### Brasil
-### Colombia
-### Dinamarca
-### EEUU
-### Espana
-### Francia
-### Grecia
-### Hungria
-### Italia
-### Japon
-### lista.txt
-### Mexico
-### Noruega
-### Paises Bajos
-### Polonia
-### Portugal
-### Republica Checa
-### Rusia
-### Serbia
-### Suecia
-### Suiza
-### Turquia
-### United Kindom
-### Uruguay
-### Varios
+- [Alemania](#Alemania)
+- [Argentina](#Argentina)
+- [Australia](#Australia) 
+- [Austria](#Austria) 
+- [Belgica](#Belgica)
+- [Brasil](#Brasil)
+- [Colombia](#Colombia)
+- [Dinamarca](#Dinamarca)
+- [EEUU](#EEUU)
+- [España](#Espana)
+- [Francia](#Francia)
+- [Grecia](#Grecia)
+- [Hungria](#Hungria)
+- [Italia](#Italia)
+- [Japon](#Japon)
+- [Mexico](#Mexico)
+- [Noruega](#Noruega)
+- [Paises Bajos](#paisesbajos)
+- [Polonia](#Polonia)
+- [Portugal](#Portugal)
+- [Republica Checa](#Checa)
+- [Rusia](#Rusia)
+- [Serbia](#Serbia)
+- [Suecia](#Suecia)
+- [Suiza](#Suiza)
+- [Turquia](#Turquia)
+- [United Kindom](#unitedkindom)
+- [Uruguay](#Uruguay)
+- [Varios](#Varios)
 
+## <a id="alemania">Alemania</a>
 
-**Alemania Bundesliga 2020/2021**
+**Alemania Bundesliga 2020/2021** 
 
 - 1 Fußball- und Sportverein Mainz 05 e.V.
 - 1 Fußballclub Union Berlin e. V
@@ -243,6 +243,8 @@ Escudos y Logos de Equipos de Futbol del mundo.
 - Wattenscheid 09  
 - Wuppertaler Sv
 
+## <a id="argentina">Argentina</a>
+
 **Argentina Superliga**
 - Arsenal Fútbol Club(Sarandi)
 - Asociación Atlética Argentino Juniors
@@ -410,6 +412,7 @@ Escudos y Logos de Equipos de Futbol del mundo.
 - Racing Athletic Club(Olavarria)
 - Real Pilar Fútbol Club old
 
+## <a id="australia">Australia</a>
 
 **Australia Hyundai A-League**
 - Adelaide United Football Club
@@ -425,6 +428,7 @@ Escudos y Logos de Equipos de Futbol del mundo.
 - Western Sydney Wanderers FC
 - Western United FC
 
+## <a id="austria">Austria</a>
 **Austria Tipico-Bundesliga**
 - Fussball Klub Austria Wien
 - Fußball Club Red Bull Salzburg
@@ -465,6 +469,8 @@ Escudos y Logos de Equipos de Futbol del mundo.
 - Wackertirol
 - Wackertirolc
 - Wkp Lech2
+
+## <a id="belgica">Belgica</a>
 
 **Belgica Jupiler Pro League**
 - Cercle Brugge KSV
@@ -748,6 +754,8 @@ Escudos y Logos de Equipos de Futbol del mundo.
 - White Star Woluwe Fc
 - Wik Boekel
 
+## <a id="brasil">Brasil</a>
+
 **Brasil Campeonato Brasileño de Serie A**
 - Atlético Clube Goianiense
 - Botafogo de Futebol e Regatas
@@ -873,6 +881,8 @@ Escudos y Logos de Equipos de Futbol del mundo.
 - Vila Nova Fc  
 - Volta Redonda Fc 
 
+## <a id="colombia">Colombia</a>
+
 **Colombia Categoría Primera A**
 - Alianza Petrolera
 - América de Cali
@@ -898,6 +908,8 @@ Escudos y Logos de Equipos de Futbol del mundo.
 **Colombia Otras Categorias**
 - Palmira 
 - Santa Marta 
+
+## <a id="dinamarca">Dinamarca</a>
 
 **Dinamarca 3F Superliga**
 - Aalborg Boldspilklub
@@ -989,6 +1001,8 @@ Escudos y Logos de Equipos de Futbol del mundo.
 - Voersaa Idraetsforening
 - Vor Frue If
 
+## <a id="eeuu">E.E.U.U.</a>
+
 **EEUU Major League Soccer Este**
 - Atlanta United Football Club
 - Chicago Fire FC
@@ -1019,7 +1033,9 @@ Escudos y Logos de Equipos de Futbol del mundo.
 - Sporting Kansas City
 - Vancouver Whitecaps FC
 
-**Espana Primera División de España**
+## <a id="espana">España</a>
+
+**España Primera División**
 - Athletic Club(Bilbao)
 - Club Atlético de Madrid
 - Club Atlético Osasuna
@@ -1099,6 +1115,8 @@ Escudos y Logos de Equipos de Futbol del mundo.
 - Ue Olot
 - Zaragoza
 
+## <a id="francia">Francia</a>
+
 **Francia Ligue 1**
 - Angers Sporting club De l'Ouest
 - Association sportive de Monaco football club
@@ -1167,6 +1185,8 @@ Escudos y Logos de Equipos de Futbol del mundo.
 - Uscreteil
 - Usv Eschen Mauren
 
+## <a id="grecia">Grecia</a>
+
 **Grecia Superliga de Grecia**
 - AEK Athens F.C.
 - Aris Thessaloniki FC?
@@ -1201,6 +1221,8 @@ Escudos y Logos de Equipos de Futbol del mundo.
 - Paniliakos F
 - Skodaxanthi
 
+## <a id="hungria">Hungria</a>
+
 **Hungria OTP Bank Liga**
 - Budapest Honvéd FC
 - Debreceni VSC
@@ -1220,6 +1242,8 @@ Escudos y Logos de Equipos de Futbol del mundo.
 - Fc Diosgyori
 - Magyar Labdarugo 
 - Ujpest 
+
+## <a id="italia">Italia</a>
 
 **Italia Serie A**
 - ACF Fiorentina
@@ -1380,6 +1404,8 @@ Escudos y Logos de Equipos de Futbol del mundo.
 - Virtus Entella
 - Virtus Lanciano 
 
+## <a id="japon">Japon</a>
+
 **Japon Meiji Yasuda J1 League**
 - Cerezo Osaka
 - Fc Gamba Osaka
@@ -1429,6 +1455,8 @@ Escudos y Logos de Equipos de Futbol del mundo.
 - Yokohama Fc  Type
 - Yokohamafc
 
+## <a id="mexico">Mexico</a>
+
 **Mexico Liga BBVA MX**
 - Atlas Fútbol Club
 - Atlético San Luis
@@ -1473,6 +1501,8 @@ Escudos y Logos de Equipos de Futbol del mundo.
 - Tiburones Rojos
 - Toluca 1970 
 - Toros Neza
+
+## <a id="paisesbajos">Paises Bajos</a>
 
 **Paises Bajos Eredivisie**
 - ADO Den Haag
@@ -1655,6 +1685,8 @@ Escudos y Logos de Equipos de Futbol del mundo.
 - Wke Emmen
 - Zelezarny Trinec
 
+## <a id="polonia">Polonia</a>
+
 **Polonia Ekstraklasa**
 - Gks Piast
 - Jagiellonia Bialystok
@@ -1822,7 +1854,7 @@ Escudos y Logos de Equipos de Futbol del mundo.
 - Zkspetrochemia
 - Zs Unia
 
-
+## <a id="portugal">Portugal</a>
 
 **Portugal Primeira Liga**
 - Belenenses
@@ -1858,6 +1890,8 @@ Escudos y Logos de Equipos de Futbol del mundo.
 - Nacional
 - Naval
 - Vitoria Fc  
+
+## <a id="checa">Republica Checa</a>
 
 **Republica Checa Fortuna Liga**
 - AC Sparta Prague.svg
@@ -1906,6 +1940,7 @@ Escudos y Logos de Equipos de Futbol del mundo.
 - Viktoria Zizkov.svg
 - Vitkovice Fc.svg
 
+## <a id="rusia">Rusia</a>
 
 **Rusia Liga Premier**
 - CSKA Moscow
@@ -2025,6 +2060,8 @@ Escudos y Logos de Equipos de Futbol del mundo.
 - Zeytinburnu  
 - Zhemch Fc
 
+## <a id="serbia">Serbia</a>
+
 **Serbia First League**
 - FK Borac Cacak
 - FK Buducnost Dobanovci
@@ -2075,6 +2112,8 @@ Escudos y Logos de Equipos de Futbol del mundo.
 - Rudarpljevlja
 - Spartak Subotica
 - Vojvodina
+
+## <a id="suecia">Suecia</a>
 
  **Suecia Allsvenskan**
 - AFC Eskilstuna
@@ -2172,6 +2211,8 @@ Escudos y Logos de Equipos de Futbol del mundo.
 - Vasteras Sk
 - Vastra Frolunda If
 
+## <a id="suiza">Suiza</a>
+
 **Suiza Swiss Super League**
 - Berner Sport Club Young Boys
 - FC Lugano
@@ -2231,6 +2272,7 @@ Escudos y Logos de Equipos de Futbol del mundo.
 - Us Terre Sainte
 - Yverdon Sport
 
+## <a id="turquia">Turquia</a>
 
 **Turquia Super Lig**
 - Alanyaspor
@@ -2285,6 +2327,8 @@ Escudos y Logos de Equipos de Futbol del mundo.
 - Vefa Sk
 - Yozgatspor
 
+## <a id="unitedkindom">United Kindom</a>
+
 **United Kindom Premier League**
 - Arsenal F.C.
 - Aston Villa F.C.
@@ -2306,6 +2350,8 @@ Escudos y Logos de Equipos de Futbol del mundo.
 - West Bromwich Albion F.C.
 - West Ham United F.C.
 - Wolverhampton Wanderers F.C.
+
+## <a id="uruguay">Uruguay</a>
 
 **Uruguay Primera División de Uruguay**
 - Centro Atlético Fénix
@@ -2332,6 +2378,8 @@ Escudos y Logos de Equipos de Futbol del mundo.
 - Paysandu Football Club
 - Rampla Juniors Football Club
 - River Plate Football Club
+
+## <a id="varios">Varios</a>
 
 **Varios**
 - Adelaidecrows
