@@ -2,7 +2,7 @@
 Escudos y Logos de Equipos de Futbol del mundo.
 Más de 2000 escudos en gráficos vectoriales escalables(SVG)
 
-**Escudos por Pais**
+**Indice Escudos por Pais**
 - [Alemania](#Alemania)
 - [Argentina](#Argentina)
 - [Australia](#Australia) 
