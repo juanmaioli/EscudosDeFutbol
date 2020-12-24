@@ -1,7 +1,8 @@
 # EscudosDeFutbol
 Escudos y Logos de Equipos de Futbol del mundo.
+Más de 2000 escudos en gráficos vectoriales escalables(SVG)
 
-**Escudos y Logos de Clubes de Fútbol**
+**Escudos por Pais**
 - [Alemania](#Alemania)
 - [Argentina](#Argentina)
 - [Australia](#Australia) 
@@ -1894,51 +1895,51 @@ Escudos y Logos de Equipos de Futbol del mundo.
 ## <a id="checa">Republica Checa</a>
 
 **Republica Checa Fortuna Liga**
-- AC Sparta Prague.svg
-- Bohemians Prague.svg
-- FC Ban¡k Ostrava.svg
-- FC Fastav Zl¡n.svg
-- FC Slov cko.svg
-- FK Jablonec.svg
-- FK Mlad  Boleslav.svg
-- FK Pr¡bram.svg
-- FK Teplice.svg
-- Football Club Slovan Liberec.svg
-- Football Club Viktoria Pilsen.svg
-- MFK Karvin .svg
-- SFC Opava.svg
-- SK Dynamo Cesk‚ Budejovice.svg
-- SK Sigma Olomouc.svg
-- Sportovn¡ Klub Slavia Praga.svg
+- AC Sparta Prague
+- Bohemians Prague
+- FC Ban¡k Ostrava
+- FC Fastav Zl¡n
+- FC Slov cko
+- FK Jablonec
+- FK Mlad  Boleslav
+- FK Pr¡bram
+- FK Teplice
+- Football Club Slovan Liberec
+- Football Club Viktoria Pilsen
+- MFK Karvin 
+- SFC Opava
+- SK Dynamo Cesk‚ Budejovice
+- SK Sigma Olomouc
+- Sportovn¡ Klub Slavia Praga
 
 
 **Republica Checa Otras Categorias**
-- Afk Atlantic.svg
-- Banik Most.svg
-- Banik Sokolov.svg
-- Budejovice Czech.svg
-- Ceska Lipa.svg
-- Chmel Blsany.svg
-- Fc Hradec.svg
-- Fc Kaucuk Opava.svg
-- Fc Usti.svg
-- Fc Vitkovice.svg
-- Frydek Mystek.svg
-- Hfk Prerov.svg
-- Hradec Karlove.svg
-- Ks Hutnik Huta Czechy.svg
-- Olomouc.svg
-- Sc Xaverov.svg
-- Siad Most.svg
-- Sk Hanacka Slavia Kromeriz.svg
-- Sk Lerk.svg
-- Sk Rpostejov.svg
-- Slovacko Fc.svg
-- Svit Zlin.svg
-- Synot Stare Mesto.svg
-- Tescoma.svg
-- Viktoria Zizkov.svg
-- Vitkovice Fc.svg
+- Afk Atlantic
+- Banik Most
+- Banik Sokolov
+- Budejovice Czech
+- Ceska Lipa
+- Chmel Blsany
+- Fc Hradec
+- Fc Kaucuk Opava
+- Fc Usti
+- Fc Vitkovice
+- Frydek Mystek
+- Hfk Prerov
+- Hradec Karlove
+- Ks Hutnik Huta Czechy
+- Olomouc
+- Sc Xaverov
+- Siad Most
+- Sk Hanacka Slavia Kromeriz
+- Sk Lerk
+- Sk Rpostejov
+- Slovacko Fc
+- Svit Zlin
+- Synot Stare Mesto
+- Tescoma
+- Viktoria Zizkov
+- Vitkovice Fc
 
 ## <a id="rusia">Rusia</a>
 
